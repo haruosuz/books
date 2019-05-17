@@ -14,8 +14,6 @@
 
 ### 2019-04-01
 
-![](https://www.msz.co.jp/_cover/front/08788.jpg)
-
 https://www.msz.co.jp/book/detail/08788.html
 心理学の7つの大罪：みすず書房
 心理学が透明性と再現性を高め、真の科学でありつづけるためには、いま何をすべきか？
@@ -23,7 +21,6 @@ https://www.msz.co.jp/book/detail/08788.html
 https://twitter.com/yutakashino/status/1113949347270615040
 Yuta Kashino on Twitter: "心理学の7つの大罪 | クリス・チェインバーズ https://t.co/3KWWdAFr8Q repligate/replication crisis https://t.co/hax06vEIxU と呼ばれる心理学の有名な実験が再現不能であることに関する状況の整理（図の通り）と原因を追及した本の邦訳．HARK, p値ハッキング，発表バイアスなど相当根が深いです…… https://t.co/IrX28pdTZf"
 7:39 PM - 4 Apr 2019
-![](https://pbs.twimg.com/media/D3WLBxwXkAI2fTS.jpg)
 
 https://twitter.com/misuzu_shobo/status/1112583523209109505/photo/1
 みすず書房 on Twitter: "【新刊】『心理学と7つの大罪 真の科学であるために私たちがすべきこと』(クリス・チェインバーズ、大塚紳一郎訳)本日配本です。実験データの私物化、不正行為への脆さ等、著者自らの研究者生活を通じて見えてきた、心理学の研究文化に根づく「7つの大罪」を暴き出す。 https://t.co/6dyPWgU7dF… https://t.co/JIUoUrwRzq"
