@@ -9,9 +9,6 @@
 
 ## 2019
 
-
-
-
 ### 2019-04-01
 
 https://www.msz.co.jp/book/detail/08788.html
@@ -64,9 +61,27 @@ https://huyukiitoichi.hatenadiary.jp/entry/2019/03/19/080000
 
 ----------
 
-### 2016-09-23
-![](https://www.msz.co.jp/_cover/front/08534.jpg)
+## 2018
 
+### 2018-12-04
+
+2018年11月末発行。ご予約受付中!
+https://www.medsi.co.jp/books/products/detail.php?product_id=3665
+生命科学データベース・ウェブツール/(MEDSi)株式会社 メディカル・サイエンス・インターナショナル
+
+https://twitter.com/hashtag/togotv18
+
+https://github.com/haruosuz/ksbn/blob/master/2018/README.2018.4.md#2018-11-30
+
+### 2018-07-30
+https://www.keio-up.co.jp/np/detail_contents.do?goods_id=3860
+慶應義塾大学出版会 | なぜ科学はストーリーを必要としているのか | ランディ・オルソン 坪子理美
+
+https://twitter.com/search?q=なぜ科学はストーリーを必要としているのか
+
+----------
+
+### 2016-09-23
 https://www.msz.co.jp/book/detail/08534.html
 生命、エネルギー、進化：みすず書房
 
@@ -140,6 +155,11 @@ https://withnews.jp/article/f0160327003qq000000000000000W02j10701qq000013170A
 『理科系の作文技術』、81刷100万部を突破　異例のヒットの理由 - withnews（ウィズニュース）
 
 ----------
+
+
+
+
+
 
 
 
