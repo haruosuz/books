@@ -6,6 +6,8 @@ Last Update: 2019-05
 # books
 本
 
+- [books/references/README.memo.md](https://github.com/haruosuz/books/blob/master/references/README.memo.md)
+
 - [Analysis of Phylogenetics and Evolution with R](https://github.com/haruosuz/books/tree/master/aper)
 
 ![](https://static-content.springer.com/cover/book/978-1-4614-1743-9.jpg)
@@ -56,8 +58,6 @@ http://blog.livedoor.jp/dr7/archives/52183516.html
 なぜあなたの発表は伝わらないのか? : 負け犬主義。
 
 ### 2016-07-07
-![](http://www.m-review.co.jp/img/thumb.php?maxwidth=200&maxheight=264&path=goods_picl_978-4-7792-1724-1.jpg)
-
 http://www.m-review.co.jp/book/detail/978-4-7792-1724-1
 書籍詳細 - なぜあなたは論文が書けないのか？ | メディカルレビュー社
 - https://hpa1013.hatenablog.com/entry/2018/12/02/133943
