@@ -36,6 +36,15 @@ http://www.hakuyo-sha.co.jp/wp/wp-content/uploads/2019/02/rigor-mortis-tachiyomi
 
 https://twitter.com/search?q=生命科学クライシス
 
+2019.05.17
+https://biz-journal.jp/2019/05/post_27930.html
+なぜ小保方晴子氏は「STAP細胞を見た」と思い込んだ？間違った発表をする科学者たち
+- https://hatena.magajin.tokyo/?p=7411
+- https://ceron.jp/url/biz-journal.jp/2019/05/post_27930.html
+- https://news.so-net.ne.jp/article/detail/1771027/
+- https://news.mixi.jp/view_news.pl?id=5625216&media_id=175
+- https://www.excite.co.jp/news/article/Bizjournal_mixi201905_post-15443/
+
 https://twitter.com/yutakashino/status/1124480078568726528
 Yuta Kashino on Twitter: "”学術雑誌に発表された実験のおよそ90%が再現できないという衝撃の事実…研究者たちは生き残りをかけて、少ない予算資源をめぐる熾烈な分捕り合戦を繰り広げ…今や、科学者の目的は真実の追求ではなく、研究助成金を獲得することに変質してしまった“ | 生命科学クライシス https://t.co/W7fbURsyKi"
 9:05 PM - 3 May 2019
