@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)   
-Last Update: 2019-03
+Last Update: 2019-05
 
 ----------
 
@@ -358,9 +358,11 @@ Jin D1, Wu S1, Zhang YG1, Lu R1, Xia Y2, Dong H3, Sun J4.
 
 https://ja.wikipedia.org/wiki/DNAシークエンシング
 
-
 ----------
 # memo
+
+https://www.youtube.com/watch?v=6564K4-_DBI&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc
+Microbiome Discovery 1: Intro to the Microbiome - YouTube
 
 https://galaxyproject.github.io/training-material/
 Galaxy Training!
@@ -380,18 +382,6 @@ http://www.iu.a.u-tokyo.ac.jp/~kadota/bioinfo_ngs_sokushu_2017/1708MetagenomeMor
 https://www.jstage.jst.go.jp/article/jim/29/3/29_135/_article/-char/ja/
 進化する次世代シーケンサーによる腸内細菌叢の解析
 https://www.jstage.jst.go.jp/article/jim/29/3/29_135/_pdf
-
-- http://www.ted-ja.com/2017/02/wei-sheng-wu-karacheng-ruren-ti.html
-日本語TED新着: 微生物から成る人体 — ジェシカ・グリーン ＆カレン・ギリマン
-- https://www.ted.com/talks/anne_madden_meet_the_microscopic_life_in_your_home_and_on_your_face?language=ja
-アン・マデン: 微生物の世界へようこそ ― 自宅にも、そしてあなたの顔にも | TED Talk
-• 10:07• April 2017 | TED2017
-- [ロブ・ナイト: 微生物がどのようにして私達を作っているのか](https://www.ted.com/talks/rob_knight_how_our_microbes_make_us_who_we_are?language=ja) TED2014 · 17:24 · Filmed Feb 2014
-- [ジェシカ・グリーン: 私たちを取り巻く細菌と住環境のデザイン](http://www.ted.com/talks/jessica_green_good_germs_make_healthy_buildings?language=ja) TED2013 · 8:43 · Filmed Feb 2013
-- [ジョナサン・アイゼン：微生物にこんにちは](https://www.ted.com/talks/jonathan_eisen_meet_your_microbes?language=ja) TEDMED 2012 · 14:23 · Filmed Apr 2012
-- [リチャード・レズニック「ゲノム革命の時代へようこそ」](https://www.ted.com/talks/richard_resnick_welcome_to_the_genomic_revolution?language=ja) TEDxBoston 2011 · 11:02 · Filmed Jul 2011
-- [ジェシカ・グリーン「微生物を正しく取り除くために」](http://www.ted.com/talks/jessica_green_are_we_filtering_the_wrong_microbes?language=ja) TEDGlobal 2011 · 5:25 · Filmed Jul 2011
-
 
 ----------
 
