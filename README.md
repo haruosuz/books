@@ -1,44 +1,41 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-05
+Last Update: 2019-07
 
 ----------
 
 # books
 本
 
-- [books/references/README.memo.md](https://github.com/haruosuz/books/blob/master/references/README.memo.md)
-
+- [references/books.updates.md](https://github.com/haruosuz/books/blob/master/references/books.updates.md)
 - [Analysis of Phylogenetics and Evolution with R](https://github.com/haruosuz/books/tree/master/aper)
-
-![](https://static-content.springer.com/cover/book/978-1-4614-1743-9.jpg)
-
 - [Building bioinformatics solutions : with Perl, R, and SQL](https://github.com/haruosuz/books/tree/master/bbs)
-
-![](http://www.oxfordscholarship.com/view/covers/9780199658558.jpg)
-
 - [Bioinformatics Data Skills: Reproducible and Robust Research With Open Source Tools](https://github.com/haruosuz/books/tree/master/bds)
-
-![](http://akamaicovers.oreilly.com/images/0636920030157/cat.gif)
-
 - [BLAST](https://github.com/haruosuz/books/tree/master/blast)
-
-![](http://akamaicovers.oreilly.com/images/9780596002992/cat.gif)
-
 - [データ解析のための統計モデリング入門](https://github.com/haruosuz/books/tree/master/kubo)
-
-![](https://images-na.ssl-images-amazon.com/images/I/51wEV2xJA1L._AC_UL115_.jpg)
-
 - [Dr. Bonoの生命科学データ解析](https://github.com/haruosuz/books/tree/master/drbonobon)
-
-![](https://www.medsi.co.jp/books/upload/save_image/09271003_59caf8cb2985a.jpg)
-
 - [Statistical Analysis of Microbiome Data with R](https://github.com/haruosuz/books/tree/master/samdr)
-
-![](https://images.springer.com/sgw/books/medium/9789811315336.jpg)
 
 ----------
 
 ## updates
+
+https://twitter.com/search?q=論理が伝わる世界標準の「書く技術」
+
+https://gendai.ismedia.jp/articles/-/34145
+「文学的な文章」と「論理的な文章」その違いを明快に整理します（倉島 保美） | ブルーバックス | 講談社（1/4）
+
+https://tjo.hatenablog.com/entry/2018/12/12/190000
+『新版 統計学のセンス』は統計学を「使う」人なら必携の書 - 六本木で働くデータサイエンティストのブログ
+
+
+- https://twitter.com/search?q=系統樹をさかのぼって見えてくる進化の歴史
+
+在庫状況：品切れのため入荷お知らせにご登録下さい
+- https://twitter.com/search?q=統計学を拓いた異才たち
+- https://twitter.com/search?q=学んでみると生態学はおもしろい
+http://sciencebook.blog110.fc2.com/blog-entry-1283.html
+『 学んでみると生態学はおもしろい 』
+
 
 ## 2019
 
