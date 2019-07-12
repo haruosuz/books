@@ -17,17 +17,15 @@ Last Update: 2019-07
 
 ----------
 
+## twitter
+- https://twitter.com/hashtag/drbonobon
+- https://twitter.com/hashtag/togotv18
+- https://twitter.com/hashtag/IT4BDA
+
 ## updates
 
-https://twitter.com/search?q=論理が伝わる世界標準の「書く技術」
 
-https://gendai.ismedia.jp/articles/-/34145
-「文学的な文章」と「論理的な文章」その違いを明快に整理します（倉島 保美） | ブルーバックス | 講談社（1/4）
-
-https://tjo.hatenablog.com/entry/2018/12/12/190000
-『新版 統計学のセンス』は統計学を「使う」人なら必携の書 - 六本木で働くデータサイエンティストのブログ
-
-
+在庫状況：出版社よりお取り寄せ（通常3日～20日で出荷）
 - https://twitter.com/search?q=系統樹をさかのぼって見えてくる進化の歴史
 
 在庫状況：品切れのため入荷お知らせにご登録下さい
@@ -36,6 +34,13 @@ https://tjo.hatenablog.com/entry/2018/12/12/190000
 http://sciencebook.blog110.fc2.com/blog-entry-1283.html
 『 学んでみると生態学はおもしろい 』
 
+https://twitter.com/search?q=論理が伝わる世界標準の「書く技術」
+
+https://gendai.ismedia.jp/articles/-/34145
+「文学的な文章」と「論理的な文章」その違いを明快に整理します（倉島 保美） | ブルーバックス | 講談社（1/4）
+
+https://tjo.hatenablog.com/entry/2018/12/12/190000
+『新版 統計学のセンス』は統計学を「使う」人なら必携の書 - 六本木で働くデータサイエンティストのブログ
 
 ## 2019
 
