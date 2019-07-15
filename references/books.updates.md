@@ -9,10 +9,12 @@
 - [2018-11-05](#2018-11-05) 新版 統計学のセンス
 - [2018-07-30](#2018-07-30) なぜ科学はストーリーを必要としているのか
 - [2016-09-23](#2016-09-23) 生命、エネルギー、進化
+- [2016-08-26](#2016-08-26) 生物学の哲学入門
 
 ----------
 
 ## 2019
+
 
 ### 2019-06-15
 
@@ -141,6 +143,21 @@ https://www.msz.co.jp/book/detail/08534.html
 - http://d.hatena.ne.jp/shorebird/20161231
 - http://dain.cocolog-nifty.com/myblog/2016/12/post-d64f.html 2016.12.30
 - http://honz.jp/articles/-/43409 2016年10月07日
+
+----------
+
+### 2016-08-26
+
+http://www.keisoshobo.co.jp/book/b239975.html
+生物学の哲学入門 - 株式会社　勁草書房
+
+https://twitter.com/search?q=%22生物学の哲学入門%22
+
+http://d.hatena.ne.jp/shorebird/20161222
+書評　「生物学の哲学入門」 - shorebird　進化心理学中心の書評など
+
+http://d.hatena.ne.jp/sakstyle/20161111/p1
+森元良太・田中泉吏『生物学の哲学入門』 - logical cypher scape
 
 ----------
 
