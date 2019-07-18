@@ -1,4 +1,4 @@
-# microbe.books
+# books.microbe
 
 ## Table of Contents
 - [twitter](#twitter)
@@ -64,6 +64,13 @@ https://www.msz.co.jp/topics/08767/
 
 https://str.toyokeizai.net/books/9784492046432/
 子どもの人生は「腸」で決まる | 東洋経済STORE
+
+[MetaSUB](https://github.com/haruosuz/metasub/blob/master/README.md)関連の話は以下です。
+```
+P.247: Question 77
+地下鉄にはペストや炭疽病を起こす微生物がいると聞きます。
+子供を地下鉄に乗せて大丈夫でしょうか？
+```
 
 https://www.amazon.co.jp/dp/4492046437
 子どもの人生は「腸」で決まる: 3歳までにやっておきたい最強の免疫力の育て方
@@ -165,7 +172,7 @@ https://1000ya.isis.ne.jp/1655.html
 1655夜『感染症の世界史』石弘之|松岡正剛の千夜千冊
 
 ### 2018-01-18
-![](http://bkmkn.s3-website-ap-northeast-1.amazonaws.com/9784065020449/9784065020449_w.jpg)
+![https://1000ya.isis.ne.jp/1687.html](https://1000ya.isis.ne.jp/file_path/book1687.png)
 
 http://bookclub.kodansha.co.jp/product?item=0000226693
 日本の伝統　発酵の科学　微生物が生み出す「旨さ」の秘密
@@ -179,6 +186,9 @@ https://hon.booklog.jp/interview/hakkounokagaku-20180406
 http://news.kodansha.co.jp/5786
 発酵の科学「臭いものはなぜ旨い？」納豆､くさや､シュール･ストレミング！
 2018.03.16
+
+https://1000ya.isis.ne.jp/1687.html
+1687夜『日本の伝統 発酵の科学』中島春紫|松岡正剛の千夜千冊
 
 ## 2017
 
