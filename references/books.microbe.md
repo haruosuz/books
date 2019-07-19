@@ -65,13 +65,6 @@ https://www.msz.co.jp/topics/08767/
 https://str.toyokeizai.net/books/9784492046432/
 子どもの人生は「腸」で決まる | 東洋経済STORE
 
-[MetaSUB](https://github.com/haruosuz/metasub/blob/master/README.md)関連の話は以下です。
-```
-P.247: Question 77
-地下鉄にはペストや炭疽病を起こす微生物がいると聞きます。
-子供を地下鉄に乗せて大丈夫でしょうか？
-```
-
 https://www.amazon.co.jp/dp/4492046437
 子どもの人生は「腸」で決まる: 3歳までにやっておきたい最強の免疫力の育て方
 ジャック・ギルバート、ロブ・ナイト、サンドラ・ブレイクスリー (著)、鍛原 多惠子 (翻訳)
@@ -91,6 +84,13 @@ https://toyokeizai.net/articles/-/271157
 シカゴ大教授が説く｢最強の免疫力｣の育て方
 ジャック・ギルバート : シカゴ大学外科学教授 ／ ロブ・ナイト : カリフォルニア大学サンディエゴ校小児科学教授	2019/03/23
 https://www.msn.com/ja-jp/money/career/子どもを｢花粉症にさせない｣ためにできること-シカゴ大教授が説く｢最強の免疫力｣の育て方/ar-BBV7edL
+
+[MetaSUB](https://github.com/haruosuz/metasub/blob/master/README.md)関連の話は以下です。
+```
+P.247: Question 77
+地下鉄にはペストや炭疽病を起こす微生物がいると聞きます。
+子供を地下鉄に乗せて大丈夫でしょうか？
+```
 
 ### 2018-12-14
 ![](https://www.honyaclub.com/img/goods/book/L/62/208/753.jpg)
