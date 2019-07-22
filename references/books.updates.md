@@ -42,6 +42,11 @@ https://www.msz.co.jp/book/detail/08788.html
 心理学の7つの大罪：みすず書房
 心理学が透明性と再現性を高め、真の科学でありつづけるためには、いま何をすべきか？
 
+https://twitter.com/leeswijzer/status/1153202250216398848
+MINAKA Nobuhiro on Twitter: "［蒐書日誌］読売新聞大評が本日一般公開されました：三中信宏「統計学の原罪と救済 — 心理学の７つの大罪」（2019年7月14日） https://t.co/s7cIRP3Puo ※書評本：クリス・チェインバーズ［大塚紳一郎訳］『心理学の7つの大罪：真の科学であるために私たちがすべきこと』（2019年4月，みすず書房）．" / Twitter
+4:16 PM · Jul 22, 2019
+続）この書評記事に出てくる「確証バイアス」「ｐ値ハッキング」「ＨＡＲＫ行為」「ＱＲＰｓ」などなどの業界用語が “一般名詞化” してくれるとありがたいのだが．
+
 https://twitter.com/yutakashino/status/1113949347270615040
 Yuta Kashino on Twitter: "心理学の7つの大罪 | クリス・チェインバーズ https://t.co/3KWWdAFr8Q repligate/replication crisis https://t.co/hax06vEIxU と呼ばれる心理学の有名な実験が再現不能であることに関する状況の整理（図の通り）と原因を追及した本の邦訳．HARK, p値ハッキング，発表バイアスなど相当根が深いです…… https://t.co/IrX28pdTZf"
 7:39 PM - 4 Apr 2019
