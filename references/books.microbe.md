@@ -1,42 +1,14 @@
 # books.microbe
 
 ## Table of Contents
+- [updates](#updates)
+  - [2019-03-22](#2019-03-22) これからの微生物学
+マイクロバイオータからCRISPRへ
+  - [2018-06-15](#2018-06-15) ガンより怖い薬剤耐性菌
 - [twitter](#twitter)
 - [featuring](#featuring)
 - [nikkei-science](#nikkei-science)
 - [sciencebook](#sciencebook) 科学に佇む一行読書の書斎
-- [updates](#updates)
-- [2019-03-22](#2019-03-22) これからの微生物学
-マイクロバイオータからCRISPRへ
-- [2018-06-15](#2018-06-15) ガンより怖い薬剤耐性菌
-
-----------
-## twitter
-
-- https://twitter.com/search?q="これからの微生物学"
-- https://twitter.com/search?q=%22これからの微生物学%22
-- https://twitter.com/search?q=闘う微生物
-- https://twitter.com/search?q=%22土・牛・微生物%22
-- https://twitter.com/search?q=%22抗生物質と人間%22
-- https://twitter.com/search?q=%22微生物の驚異%22
-- https://twitter.com/search?q=%22マイクロバイオームの世界%22
-- https://twitter.com/search?q=%20土と内臓%20微生物がつくる世界
-- https://twitter.com/search?q=あなたの体は９割が細菌
-- https://twitter.com/search?q=失われてゆく、我々の内なる細菌
-- https://twitter.com/search?q=世界は細菌にあふれ、人は細菌によって生かされる
-- https://twitter.com/search?q=%22ガンより怖い薬剤耐性菌%22
-
-----------
-## featuring
-
-https://thinkeroid.hateblo.jp/entry/20190501/1556698797
-まだ「ウイルスは生物か無生物か」で消耗してるの？ - 殺シ屋鬼司令II
-
-http://dain.cocolog-nifty.com/myblog/2011/12/post-1980.html
-「疫病と世界史」はスゴ本: わたしが知らないスゴ本は、きっとあなたが読んでいる
-- 著者は、この難問に「移動手段の発達」と「疫病の地域性」というツールを使う。
-- つまり、規模が大きく、複雑な組織を有し、人口密度が高く、都市を中心とした共同体が条件だという。そこでは、中間宿主なしに、病原菌が直接ヒトからヒトへ移動する。
-- 「移動手段の発達」が、徒歩、馬、帆船、汽船、そして飛行機と進むにつれ、ほとんど爆発するように感染域が拡大する。飛行機に乗ったトリインフルエンザは、これまでの疫病とは比べ物にならないスピードを誇って良い。
 
 ----------
 ## updates
@@ -132,7 +104,7 @@ https://huyukiitoichi.hatenadiary.jp/entry/2018/09/12/080000
 https://honz.jp/articles/-/44887
 訳者あとがき
 
-### 2018/06/28
+### 2018-06-28
 ![](https://www.kinokuniya.co.jp/images/goods/ar2/web/imgdata2/43140/4314011572.jpg)
 
 https://www.kinokuniya.co.jp/f/dsg-01-9784314011570
@@ -140,6 +112,9 @@ https://www.kinokuniya.co.jp/f/dsg-01-9784314011570
 
 【ためし読みはこちらから】
 https://www.kinokuniya.co.jp/banner/9784314011570.pdf
+
+https://www.kinokuniya.co.jp/c/label/20180702163616.html
+【紀伊國屋書店出版部】6月新刊『腸と脳──体内の会話はいかにあなたの気分や選択や健康を左右するか』 | 本の「今」がわかる 紀伊國屋書店
 
 ### 2018/06/02
 ![https://www.amazon.co.jp/dp/4255010579](https://images-na.ssl-images-amazon.com/images/I/51tCt9d2GdL._SX333_BO1,204,203,200_.jpg)
@@ -388,9 +363,9 @@ http://dain.cocolog-nifty.com/myblog/2015/12/post-c645.html
 ### 2015-07-01
 ![](https://www.msz.co.jp/_cover/front/07910_big.jpg)
 
-『失われてゆく、我々の内なる細菌』
-マーティン・J・ブレイザー　山本太郎訳
 https://www.msz.co.jp/topics/07910/
+『失われてゆく、我々の内なる細菌』 - みすず書房
+マーティン・J・ブレイザー　山本太郎訳
 https://www.msz.co.jp/book/detail/07910.html
 
 村上 浩2015年07月22日
@@ -455,7 +430,38 @@ https://twitter.com/endBooks/status/385905594026033153
 http://sciencebook.blog110.fc2.com/blog-entry-1492.html#納豆菌汚染
 『 バイオ実験超基本Q&A　そして「納豆凶悪伝説」 』
 
+
 ----------
+## twitter
+
+- https://twitter.com/search?q="これからの微生物学"
+- https://twitter.com/search?q=%22これからの微生物学%22
+- https://twitter.com/search?q=闘う微生物
+- https://twitter.com/search?q=%22土・牛・微生物%22
+- https://twitter.com/search?q=%22抗生物質と人間%22
+- https://twitter.com/search?q=%22微生物の驚異%22
+- https://twitter.com/search?q=%22マイクロバイオームの世界%22
+- https://twitter.com/search?q=%20土と内臓%20微生物がつくる世界
+- https://twitter.com/search?q=あなたの体は９割が細菌
+- https://twitter.com/search?q=失われてゆく、我々の内なる細菌
+- https://twitter.com/search?q=世界は細菌にあふれ、人は細菌によって生かされる
+- https://twitter.com/search?q=%22ガンより怖い薬剤耐性菌%22
+
+----------
+## featuring
+
+https://thinkeroid.hateblo.jp/entry/20190501/1556698797
+まだ「ウイルスは生物か無生物か」で消耗してるの？ - 殺シ屋鬼司令II
+
+http://dain.cocolog-nifty.com/myblog/2011/12/post-1980.html
+「疫病と世界史」はスゴ本: わたしが知らないスゴ本は、きっとあなたが読んでいる
+- 著者は、この難問に「移動手段の発達」と「疫病の地域性」というツールを使う。
+- つまり、規模が大きく、複雑な組織を有し、人口密度が高く、都市を中心とした共同体が条件だという。そこでは、中間宿主なしに、病原菌が直接ヒトからヒトへ移動する。
+- 「移動手段の発達」が、徒歩、馬、帆船、汽船、そして飛行機と進むにつれ、ほとんど爆発するように感染域が拡大する。飛行機に乗ったトリインフルエンザは、これまでの疫病とは比べ物にならないスピードを誇って良い。
+
+
+----------
+
 
 
 
