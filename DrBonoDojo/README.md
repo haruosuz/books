@@ -7,13 +7,12 @@ Last Update: 2019-10-20
 
 [生命科学者のためのDr.Bonoデータ解析実践道場](https://www.medsi.co.jp/products/detail/3708)
 
-![](https://www.medsi.co.jp/html/upload/save_image/0923140935_5d88538fce9bc.jpg)
+![](https://images-na.ssl-images-amazon.com/images/I/61fZikM0CcL._AC_UL160_.jpg)
 
 ----------
 
 # Table of Contents
 [道場本の章立て](http://bonohu.jp/blog/drbonodojo-chapters.html)
-
 - [chapter-1](#chapter-1) 1章 準備編
 - [chapter-2](#chapter-2) 2章 基礎編
 - [chapter-3](#chapter-3) 3章 実践編
@@ -32,12 +31,6 @@ p.51
 
 1章 準備編 
 
-1.1 Mac を買おう
-
-1.2 Mac をセットアップしよう
-
- 1.3 周辺機器の設定
-
 p.15
 
 ----------
@@ -55,7 +48,7 @@ p.36
 
 p.37
 
-Bioconda のインストール
+Bioconda
 
 https://bioconda.github.io/
 
@@ -128,9 +121,6 @@ byobu
 
 3.1 公共データベースからのデータ取得
 
-https://www.slideshare.net/atsushhar/31-184203390
-3-1
-
 p.70
 
 
@@ -145,8 +135,6 @@ Right click the link *assembly_summary_refseq_historical.txt*, and select "Copy 
 
     curl -O ftp://ftp.ncbi.nlm.nih.gov/genomes/ASSEMBLY_REPORTS/assembly_summary_refseq_historical.txt
     grep "GCF_000002195.4" assembly_summary_refseq_historical.txt
-
-GCF_000002195.4	PRJNA13343	SAMN00002455	AADG00000000.6	na	7460	7460	Apis mellifera	strain=DH4		suppressed	Chromosome	Major	Full	2011/01/14	Amel_4.5	Human Genome Sequencing Center	GCA_000002195.1	different	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/002/195/GCF_000002195.4_Amel_4.5
 
 URL <ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/002/195/GCF_000002195.4_Amel_4.5> をブラウザ（Firefox または Chrome）で開く。 *GCF_000002195.4_Amel_4.5_protein.faa.gz* を右クリックし、「リンクのURLをコピー (Copy Link)」する。
 
@@ -208,6 +196,7 @@ DoMosaics
 
 3.6 データ統合解析
 
+
 ----------
 
 # References
@@ -218,14 +207,19 @@ https://www.medsi.co.jp/products/detail/3708
 https://github.com/bonohu/DrBonoDojo
 GitHub - bonohu/DrBonoDojo: 生命科学者のためのDr.Bonoデータ解析実践道場
 
-2019/10/20(日)
-https://oum-python.connpass.com/event/149085/
-「生命科学者のためのDr.Bonoデータ解析実践道場」読書会 @大阪 - connpass
-
 2019/9/25
 http://blog.hypoxia.jp/tag/drbonodojo
 「生命科学者のためのDr.Bonoデータ解析実践道場」が出ました
 
+## 2019-10-20
+https://oum-python.connpass.com/event/149085/
+「生命科学者のためのDr.Bonoデータ解析実践道場」読書会 @大阪 - connpass
+
+https://www.slideshare.net/atsushhar/31-184203390
+3-1
+
+https://www.slideshare.net/YoshiakiYasumizu/drbonodojo36
+drbonodojo3-6 データ統合解析
 
 
 
