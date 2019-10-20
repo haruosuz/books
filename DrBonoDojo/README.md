@@ -19,8 +19,6 @@ Last Update: 2019-10-20
 - [chapter-3](#chapter-3) 3章 実践編
 
 ----------
-# chapter-1
-
 準備
 
     mkdir ~/projects
@@ -32,6 +30,9 @@ p.51
 	cd DrBonoDojo/
 	ls -F
 
+----------
+# chapter-1
+
 1章 準備編 
 
 1.1 Mac を買おう
@@ -41,7 +42,6 @@ p.51
  1.3 周辺機器の設定
 
 p.15
-
 
 ----------
 # chapter-2
@@ -60,25 +60,23 @@ p.37
 
 Bioconda のインストール
 
+https://bioconda.github.io/
+
 https://conda.io/miniconda.html
 
 https://bioconda.github.io/user/install.html
+```
+# 1. Install conda
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
+sh Miniconda3-latest-MacOSX-x86_64.sh
 
-    # 1. Install conda
-	curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
-	# 
-	sh Miniconda3-latest-MacOSX-x86_64.sh
+# 2. Set up channels
+conda config --add channels defaults
+conda config --add channels bioconda
+conda config --add channels conda-forge
 
-p.40
-
-	# Anacondaでchannelを追加
-	conda config --add channels defaults
-	conda config --add channels conda-forge
-	conda config --add channels bioconda
-
-https://bioconda.github.io/
-
-    # 3. Install packages
+# 3. Install packages
+```
 
 	# coreutils
 	conda install -c bioconda coreutils
@@ -99,8 +97,13 @@ http://togotv.dbcls.jp/tags.html?tag=EMBOSS
 
 p.46
 
-	# Homebrewのインストール
-	/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+Homebrew
+
+https://brew.sh/index_ja
+```
+# インストール
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
 
 	# brewsci/bioとbrewsci/scienceを追加
 	brew tap brewsci/bio
@@ -111,7 +114,7 @@ p.48
 繰り返し処理
 
 	seq 5 10
-	for c in `seq 1 100`; do echo $c; done
+    for c in `seq 1 10`; do echo $c; done
 
     cd ~/projects/DrBonoDojo/2-3/
 	sh for-seq.sh
@@ -126,7 +129,7 @@ rsync
 
 byobu
 
-	# byobuインストール
+    # Install byobu
 	conda install byobu
 
 	byobu
@@ -162,9 +165,8 @@ p.70
 	# 
 	curl -O ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/002/195/GCF_000002195.4_Amel_4.5/GCF_000002195.4_Amel_4.5_protein.faa.gz
 
-	# Anacondaを使ってwgetをインストール
+	# Install wget using Anaconda
 	conda install wget
-
 
 ftp://ftp.ncbi.nlm.nih.gov/genomes/ASSEMBLY_REPORTS/ をブラウザ（Firefox または Chrome）で開く。
 *assembly_summary_refseq_historical.txt* を右クリックし、「リンクのURLをコピー (Copy Link)」する。
@@ -183,7 +185,6 @@ URL <ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/002/195/GCF_000002195.4_Amel
 
 Open the URL <ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/002/195/GCF_000002195.4_Amel_4.5> with your browser (Firefox or Chrome).
 Right click the link *GCF_000002195.4_Amel_4.5_protein.faa.gz*, and select "Copy Link Address".
-
 
 p.79
 
