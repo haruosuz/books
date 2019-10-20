@@ -207,21 +207,12 @@ p.129
 3.4 ドメイン解析 
 
 
-
 p.145
 
-DoMosaics (https://doi.org/10.7875/togotv.2017.077) のウェブサイトは
-http://www.domosaics.net/ http://domosaics.net/docs/index.html
-が利用できないので
-https://domainworld.uni-muenster.de/developing/domosaics/
-を利用することになりました。
+https://doi.org/10.7875/togotv.2017.077
+2017-08-04 DoMosaicsを使ってドメイン構造と系統樹を可視化する
 
-
-情報ありがうございます。
-修正しました。
-https://togotv.dbcls.jp/20170804.html
-
-
+DoMosaics (以前のURLであるhttp://www.domosaics.net/ は使えなくなっており、現在は https://domainworld.uni-muenster.de/developing/domosaics/ でホストされています。2019/09/27追記)は、複数のタンパク質のドメイン構造と系統関係が簡単に調べられるウェブツールです。
 
 3.5 発現定量解析 
 
