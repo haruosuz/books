@@ -155,7 +155,26 @@ Right click the link *GCF_000002195.4_Amel_4.5_protein.faa.gz*, and select "Copy
 p.79
 
 
-    # https://www.uniprot.org/downloads
+
+https://github.com/haruosuz/introBI/blob/master/2019/CaseStudy.md#uniprot_sprot
+
+<https://www.uniprot.org/downloads> をブラウザ（Firefox または Chrome）で開く。  
+Reviewed (Swiss-Prot) *fasta* を右クリックし、「リンクのURLをコピー (Copy Link)」する。
+
+Open the URL <<https://www.uniprot.org/downloads>> with your browser (Firefox or Chrome).  
+Right click the link Reviewed (Swiss-Prot) *fasta* and select "Copy Link Address".
+
+```
+# "uniprot_sprot.fasta.gz"ファイルをダウンロードする
+# download "uniprot_sprot.fasta.gz" file with `wget` or `curl`
+#curl -O ftp://ftp.uniprot.org/pub/databases/uniprot/knowledgebase/uniprot_sprot.fasta.gz
+ wget -b ftp://ftp.uniprot.org/pub/databases/uniprot/knowledgebase/uniprot_sprot.fasta.gz
+
+# `tail -f`でファイル出力を監視する（Control-Cで動作中のプロセスを停止）
+# Use `tail -f` to constantly monitor files (use Control-C to stop)
+tail -f wget-log
+```
+
 
 いまここ
 
