@@ -26,9 +26,6 @@ Last Update: 2019-10-20
 
 p.51
 
-	git clone https://github.com/bonohu/DrBonoDojo
-	cd DrBonoDojo/
-	ls -F
 
 ----------
 # chapter-1
@@ -78,20 +75,10 @@ conda config --add channels conda-forge
 # 3. Install packages
 ```
 
-	# coreutils
-	conda install -c bioconda coreutils
 
-	which df
-	df -H
-	/bin/df -H
 
-	# EMBOSS
-	conda install -c bioconda emboss
 
     cd ~/projects/DrBonoDojo/2-2/
-	cat DNA.txt
-	revseq DNA.txt rev.txt
-	cat rev.txt 
 
 http://togotv.dbcls.jp/tags.html?tag=EMBOSS
 
@@ -105,19 +92,14 @@ https://brew.sh/index_ja
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
-	# brewsci/bioとbrewsci/scienceを追加
-	brew tap brewsci/bio
-	brew tap brewsci/science
 
 p.48
 
 繰り返し処理
 
-	seq 5 10
     for c in `seq 1 10`; do echo $c; done
 
     cd ~/projects/DrBonoDojo/2-3/
-	sh for-seq.sh
 
 p.57
 
@@ -130,17 +112,12 @@ rsync
 byobu
 
     # Install byobu
-	conda install byobu
 
-	byobu
 
     cd ${HOME}/miniconda3/lib
 
-	ls -l libtinfo*
 
-	ln libtinfow.6.dylib libtinfo.6.dylib 
 
-	byobu
 
     exit
 
@@ -156,17 +133,8 @@ https://www.slideshare.net/atsushhar/31-184203390
 
 p.70
 
-	cd
-	cd Downloads/
-	mkdir datadojo
-	cd datadojo/
-	pwd
 
-	# 
-	curl -O ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/002/195/GCF_000002195.4_Amel_4.5/GCF_000002195.4_Amel_4.5_protein.faa.gz
 
-	# Install wget using Anaconda
-	conda install wget
 
 ftp://ftp.ncbi.nlm.nih.gov/genomes/ASSEMBLY_REPORTS/ をブラウザ（Firefox または Chrome）で開く。
 *assembly_summary_refseq_historical.txt* を右クリックし、「リンクのURLをコピー (Copy Link)」する。
@@ -188,10 +156,8 @@ Right click the link *GCF_000002195.4_Amel_4.5_protein.faa.gz*, and select "Copy
 
 p.79
 
-	cd ~/Downloads/datadojo/
 
     # https://www.uniprot.org/downloads
-	curl -O ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/complete/uniprot_sprot.fasta.gz
 
 いまここ
 
@@ -200,7 +166,6 @@ p.79
     wget -b ftp://ftp.ensembl.org/pub/release-98/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.toplevel.fa.gz
 
     # ftp://ftp.ensembl.org/pub/current_fasta/homo_sapiens/dna/
-	curl -O ftp://ftp.ensembl.org/pub/current_fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.toplevel.fa.gz
 
 
 3.2 配列類似性検索 
@@ -224,7 +189,6 @@ p.129
 
 3.4 ドメイン解析 
 
-	conda install hmmer
 
 
 p.145
