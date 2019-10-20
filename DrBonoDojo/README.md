@@ -177,9 +177,9 @@ Right click the link *assembly_summary_refseq_historical.txt*, and select "Copy 
 ```
 curl -O ftp://ftp.ncbi.nlm.nih.gov/genomes/ASSEMBLY_REPORTS/assembly_summary_refseq_historical.txt
 grep "GCF_000002195.4" assembly_summary_refseq_historical.txt
+```
 
 GCF_000002195.4	PRJNA13343	SAMN00002455	AADG00000000.6	na	7460	7460	Apis mellifera	strain=DH4		suppressed	Chromosome	Major	Full	2011/01/14	Amel_4.5	Human Genome Sequencing Center	GCA_000002195.1	different	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/002/195/GCF_000002195.4_Amel_4.5
-```
 
 URL <ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/002/195/GCF_000002195.4_Amel_4.5> をブラウザ（Firefox または Chrome）で開く。 *GCF_000002195.4_Amel_4.5_protein.faa.gz* を右クリックし、「リンクのURLをコピー (Copy Link)」する。
 
