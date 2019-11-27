@@ -40,7 +40,17 @@ p.15
 
 2.1 UNIX コマンドラインを使ってみよう
 
+p.17
+
 2.2 コマンドラインの基本操作 
+
+[UNIXコマンド入門 [一般ユーザー編] (全24回) - プログラミングならドットインストール](https://dotinstall.com/lessons/basic_unix_v2)
+
+```
+cd
+pwd
+```
+
 
 p.36
 
@@ -68,6 +78,8 @@ conda config --add channels conda-forge
 # 3. Install packages
 ```
 
+
+    env | grep "PATH"
 
 
 
@@ -128,18 +140,35 @@ p.70
     # Install wget using Anaconda
 
 ftp://ftp.ncbi.nlm.nih.gov/genomes/ASSEMBLY_REPORTS/ をブラウザ（Firefox または Chrome）で開く。
-*assembly_summary_refseq_historical.txt* を右クリックし、「リンクのURLをコピー (Copy Link)」する。
-
+*assembly_summary_refseq_historical.txt* を右クリックし、「リンクのURLをコピー (Copy Link)」する。  
 Open the URL ftp://ftp.ncbi.nlm.nih.gov/genomes/ASSEMBLY_REPORTS/ with your browser (Firefox or Chrome).
 Right click the link *assembly_summary_refseq_historical.txt*, and select "Copy Link Address".
 
     curl -O ftp://ftp.ncbi.nlm.nih.gov/genomes/ASSEMBLY_REPORTS/assembly_summary_refseq_historical.txt
     grep "GCF_000002195.4" assembly_summary_refseq_historical.txt
 
-URL <ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/002/195/GCF_000002195.4_Amel_4.5> をブラウザ（Firefox または Chrome）で開く。 *GCF_000002195.4_Amel_4.5_protein.faa.gz* を右クリックし、「リンクのURLをコピー (Copy Link)」する。
-
+URL <ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/002/195/GCF_000002195.4_Amel_4.5> をブラウザ（Firefox または Chrome）で開く。 *GCF_000002195.4_Amel_4.5_protein.faa.gz* を右クリックし、「リンクのURLをコピー (Copy Link)」する。  
 Open the URL <ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/002/195/GCF_000002195.4_Amel_4.5> with your browser (Firefox or Chrome).
 Right click the link *GCF_000002195.4_Amel_4.5_protein.faa.gz*, and select "Copy Link Address".
+
+p.73
+
+[TogoWS: REST](http://togows.dbcls.jp/site/en/rest.html)  
+[TogoWS RESTサービスを使い倒す 2011](https://doi.org/10.7875/togotv.2011.058)
+
+
+
+p.76
+
+https://github.com/bonohu/DrBonoDojo/blob/master/3-1/for-seq-togows.sh
+
+p.77
+
+https://github.com/bonohu/DrBonoDojo/blob/master/3-1/for-cat-togows.sh
+
+p.78
+
+https://github.com/bonohu/DrBonoDojo/blob/master/3-1/for-cat-togows-NM.sh
 
 p.79
 
@@ -148,8 +177,7 @@ p.79
 https://github.com/haruosuz/introBI/blob/master/2019/CaseStudy.md#uniprot_sprot
 
 <https://www.uniprot.org/downloads> をブラウザ（Firefox または Chrome）で開く。  
-Reviewed (Swiss-Prot) *fasta* を右クリックし、「リンクのURLをコピー (Copy Link)」する。
-
+Reviewed (Swiss-Prot) *fasta* を右クリックし、「リンクのURLをコピー (Copy Link)」する。  
 Open the URL <<https://www.uniprot.org/downloads>> with your browser (Firefox or Chrome).  
 Right click the link Reviewed (Swiss-Prot) *fasta* and select "Copy Link Address".
 
