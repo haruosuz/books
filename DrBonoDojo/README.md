@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-10-20
+Last Update: 2019-11
 
 ----------
 
@@ -20,8 +20,8 @@ Last Update: 2019-10-20
 ----------
 準備
 
-    mkdir ~/projects
-    cd ~/projects/
+    mkdir -p ~/Downloads/datadojo/
+    cd ~/Downloads/datadojo/
 
 p.51
 
@@ -135,6 +135,8 @@ byobu
 
 p.70
 
+コマンドラインでのデータ取得
+
 
 
     # Install wget using Anaconda
@@ -157,7 +159,6 @@ p.73
 [TogoWS RESTサービスを使い倒す 2011](https://doi.org/10.7875/togotv.2011.058)
 
 
-
 p.76
 
 https://github.com/bonohu/DrBonoDojo/blob/master/3-1/for-seq-togows.sh
@@ -170,8 +171,13 @@ p.78
 
 https://github.com/bonohu/DrBonoDojo/blob/master/3-1/for-cat-togows-NM.sh
 
+DBそのものの取得
+
 p.79
 
+    cd ~/Downloads/datadojo/
+
+UniProtKB [Swiss-Prot](https://ja.wikipedia.org/wiki/Swiss-Prot) タンパク質データベース
 
 
 https://github.com/haruosuz/introBI/blob/master/2019/CaseStudy.md#uniprot_sprot
@@ -184,26 +190,99 @@ Right click the link Reviewed (Swiss-Prot) *fasta* and select "Copy Link Address
     # download "uniprot_sprot.fasta.gz" file
     wget -b ftp://ftp.uniprot.org/pub/databases/uniprot/knowledgebase/uniprot_sprot.fasta.gz
 
-いまここ
+Ensembl human genome の塩基配列
+
+    # ftp://ftp.ensembl.org/pub/current_fasta/homo_sapiens/dna/
 
     # https://asia.ensembl.org/info/data/ftp/index.html
     # ftp://ftp.ensembl.org/pub/release-98/fasta/homo_sapiens/dna/
     wget -b ftp://ftp.ensembl.org/pub/release-98/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.toplevel.fa.gz
 
-    # ftp://ftp.ensembl.org/pub/current_fasta/homo_sapiens/dna/
-
-
 3.2 配列類似性検索 
+
+p.87
+
+BLASTのインストール
+
+https://anaconda.org/bioconda/blast
+```
+# install BLAST with conda
+conda install blast
+```
+
+BLAST用DBの作成
+
+p.93
+
+DBはアミノ酸配列
+
+
+    # Decompressing data
+
+    # Building a BLAST database http://www.ncbi.nlm.nih.gov/books/NBK279688/
+
+    # Running BLASTP
+    ln -s ./DrBonoDojo/3-2/HIF1_CAEEL.fasta
 
 p.110
 
-3.3 系統樹作成 
+3.3 系統樹作成
+
+[多重配列アライメントと分子系統樹](https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan#multiple-alignment-and-phylogenetic-trees)
+
+配列取得
+
+    # Perform sequence similarity search against UniProt with blastp
+    ln -s ./DrBonoDojo/3-3/HIF1_CAEEL.fasta
+
+    ln -s ./DrBonoDojo/3-3/pre_aa.txt
+
+    # Extracting data from BLAST databases with blastdbcmd http://www.ncbi.nlm.nih.gov/books/NBK279689/
+
+    # look at this with less # if you need to quit less, press q
+
+p.116
+
+多重配列アライメントの実行
+
+p.118
+
+    # mafft --help
+    # look at this with less # if you need to quit less, press q
+
+多重配列アライメントの可視化
+
+
+- https://doi.org/10.7875/togotv.2013.049
+Jalviewを使って配列解析・系統樹作成をする
+- http://www.jalview.org/getdown/release/
+Offline macOS Disk Image (75MB)
+
+シークエンスロゴによる可視化
+
+http://weblogo.berkeley.edu/logo.cgi
+WebLogo - Create Sequence Logos
 
 p.122
 
-FastTree computes local support values with the Shimodaira-Hasegawa test
-http://www.microbesonline.org/fasttree/#Support
-If you want to use the traditional bootstrap instead, 
+系統樹作成と可視化
+
+[FastTree](https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#fasttree)
+
+    # install FastTree with conda
+    # Running FastTree
+    # look at this with less # if you need to quit less, press q
+
+[MEGA](https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#mega)
+: Molecular Evolutionary Genetics Analysis software
+
+結果の解釈
+
+    ln -s ./DrBonoDojo/3-3/id2species.pl
+
+
+
+
 
 p.129
 
@@ -252,4 +331,9 @@ drbonodojo3-6 データ統合解析
 
 
 ----------
+
+
+https://github.com/haruosuz/DS4GD/blob/master/2017giga/CaseStudy.md
+https://github.com/haruosuz/introBI/blob/master/2018/CaseStudy.md
+https://github.com/haruosuz/bioinfo/blob/master/2019/CaseStudy.md
 
