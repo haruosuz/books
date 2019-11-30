@@ -155,21 +155,18 @@ Right click the link *GCF_000002195.4_Amel_4.5_protein.faa.gz*, and select "Copy
 
 p.73
 
-[TogoWS: REST](http://togows.dbcls.jp/site/en/rest.html)  
-[TogoWS RESTサービスを使い倒す 2011](https://doi.org/10.7875/togotv.2011.058)
+TogoWSによる個別の塩基配列取得
 
+- http://togows.dbcls.jp/site/en/rest.html
+TogoWS: REST
+- http://togows.dbcls.jp/site/ja/index.html
+TogoWS
+- http://togotv.dbcls.jp/ja/20110425.html
+TogoWS RESTサービスを使い倒す
 
-p.76
-
-https://github.com/bonohu/DrBonoDojo/blob/master/3-1/for-seq-togows.sh
-
-p.77
-
-https://github.com/bonohu/DrBonoDojo/blob/master/3-1/for-cat-togows.sh
+    # 
 
 p.78
-
-https://github.com/bonohu/DrBonoDojo/blob/master/3-1/for-cat-togows-NM.sh
 
 DBそのものの取得
 
