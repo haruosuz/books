@@ -181,7 +181,7 @@ https://github.com/haruosuz/introBI/blob/master/2019/CaseStudy.md#uniprot_sprot
 
 <https://www.uniprot.org/downloads> をブラウザ（Firefox または Chrome）で開く。  
 Reviewed (Swiss-Prot) *fasta* を右クリックし、「リンクのURLをコピー (Copy Link)」する。  
-Open the URL <<https://www.uniprot.org/downloads>> with your browser (Firefox or Chrome).  
+Open the URL <https://www.uniprot.org/downloads> with your browser (Firefox or Chrome).  
 Right click the link Reviewed (Swiss-Prot) *fasta* and select "Copy Link Address".
 
     # download "uniprot_sprot.fasta.gz" file
@@ -199,13 +199,12 @@ Ensembl human genome の塩基配列
 
 p.87
 
+[BLAST](https://github.com/haruosuz/bioinfo/blob/master/references/README.blast.md)
+: Basic Local Alignment Search Tool
+
 BLASTのインストール
 
-https://anaconda.org/bioconda/blast
-```
-# install BLAST with conda
-conda install blast
-```
+    # install BLAST with conda
 
 BLAST用DBの作成
 
@@ -213,13 +212,10 @@ p.93
 
 DBはアミノ酸配列
 
-
     # Decompressing data
-
     # Building a BLAST database http://www.ncbi.nlm.nih.gov/books/NBK279688/
-
     # Running BLASTP
-    ln -s ./DrBonoDojo/3-2/HIF1_CAEEL.fasta
+    ln -s ~/Downloads/datadojo/DrBonoDojo/3-2/HIF1_CAEEL.fasta
 
 p.110
 
@@ -230,12 +226,10 @@ p.110
 配列取得
 
     # Perform sequence similarity search against UniProt with blastp
-    ln -s ./DrBonoDojo/3-3/HIF1_CAEEL.fasta
-
-    ln -s ./DrBonoDojo/3-3/pre_aa.txt
-
+    ln -s ~/Downloads/datadojo/DrBonoDojo/3-3/HIF1_CAEEL.fasta
+    # 
+    ln -s ~/Downloads/datadojo/DrBonoDojo/3-3/pre_aa.txt
     # Extracting data from BLAST databases with blastdbcmd http://www.ncbi.nlm.nih.gov/books/NBK279689/
-
     # look at this with less # if you need to quit less, press q
 
 p.116
@@ -243,6 +237,8 @@ p.116
 多重配列アライメントの実行
 
 p.118
+
+[MAFFT](https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#mafft)
 
     # mafft --help
     # look at this with less # if you need to quit less, press q
@@ -275,9 +271,7 @@ p.122
 
 結果の解釈
 
-    ln -s ./DrBonoDojo/3-3/id2species.pl
-
-
+    ln -s ~/Downloads/datadojo/DrBonoDojo/3-3/id2species.pl
 
 
 
@@ -330,7 +324,7 @@ drbonodojo3-6 データ統合解析
 ----------
 
 
-https://github.com/haruosuz/DS4GD/blob/master/2017giga/CaseStudy.md
-https://github.com/haruosuz/introBI/blob/master/2018/CaseStudy.md
 https://github.com/haruosuz/bioinfo/blob/master/2019/CaseStudy.md
+https://github.com/haruosuz/introBI/blob/master/2018/CaseStudy.md
+https://github.com/haruosuz/DS4GD/blob/master/2017giga/CaseStudy.md
 
