@@ -1,5 +1,4 @@
-Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2017-06-06
+Last Update: 2019-12-30
 
 ----------
 
@@ -90,7 +89,7 @@ command line interface (CLI)
 	x <- 2 + 7
 	x
 
-[統計処理ソフト R 入門 講習会資料](http://ofmind.net/doc/r-intro-lecture)
+[統計処理ソフト R 入門 講習会資料](http://182.48.59.120/doc/r-intro-lecture)
 現在の環境に存在するオブジェクトの一覧を得るには ls() 関数を使います。
 また，str()関数がオブジェクトを短い文字列で要約したものを返してくれる
 
