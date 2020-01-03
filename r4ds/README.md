@@ -8,13 +8,17 @@ Last Update: 2020-01-03
 
 - Welcome
 - [1 Introduction](#1-introduction)
-- 3 Data visualisation
-- 5 Data transformation
-- [21 Iteration](#21-iteration)
+- [3 Data visualisation](#)
+- [5 Data transformation](#)
+- [](#)
+- [27 R Markdown](#)
 
 ----------
 # [1 Introduction](http://r4ds.had.co.nz/introduction.html)
 ## [1.4 Prerequisites](https://r4ds.had.co.nz/introduction.html#prerequisites)
+### 1.4.1 R
+### 1.4.2 RStudio
+### 1.4.3 The tidyverse
 
 ----------
 # [3 Data visualisation](https://r4ds.had.co.nz/data-visualisation.html)
@@ -27,20 +31,27 @@ library(tidyverse)
 ## [3.2 First steps](https://r4ds.had.co.nz/data-visualisation.html#first-steps)
 ```
 mpg
+```
 
-### 3.2.2 Creating a ggplot
+### [3.2.2 Creating a ggplot](https://r4ds.had.co.nz/data-visualisation.html#creating-a-ggplot)
+```
 ggplot(data = mpg) + 
   geom_point(mapping = aes(x = displ, y = hwy))
+```
+
+## [3.3 Aesthetic mappings](https://r4ds.had.co.nz/data-visualisation.html#aesthetic-mappings)
+```
+ggplot(data = mpg) + 
+  geom_point(mapping = aes(x = displ, y = hwy, color = class))
 ```
 
 ----------
 # [5 Data transformation](https://r4ds.had.co.nz/transform.html)
 
 ----------
-# []()
+# [6 Workflow: scripts](https://r4ds.had.co.nz/workflow-scripts.html)
 
-----------
-# 
+![](https://d33wubrfki0l68.cloudfront.net/8a64bb047429d7ae0e2acae35c40e421e6439bf6/80e5d/diagrams/rstudio-editor.png)
 
 ----------
 # [7 Exploratory Data Analysis](https://r4ds.had.co.nz/exploratory-data-analysis.html)
@@ -79,14 +90,10 @@ ggplot(data = smaller, mapping = aes(x = carat, colour = cut)) +
 # 
 
 ----------
-# [21 Iteration](https://r4ds.had.co.nz/iteration.html)
+# [27 R Markdown](https://r4ds.had.co.nz/r-markdown.html)
 
-## 21.1 Introduction
-
-## 21.2 For loops
-
-Every for loop has three components:
-
+- https://rmarkdown.rstudio.com/
+- https://rmarkdown.rstudio.com/lesson-1.html
 
 ----------
 # References
