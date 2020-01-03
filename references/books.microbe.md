@@ -208,11 +208,10 @@ https://www.kinokuniya.co.jp/f/dsg-01-9784087210361
 
 ### 2018-05-17
 
+![](https://images-na.ssl-images-amazon.com/images/I/61LSheXf-vL._AC_UL115_.jpg)
 ![https://www.flierinc.com/summary/1122](https://fl5cdn2.azureedge.net/summary/1122_cover_300.jpg)
-![https://honz.jp/articles/-/43583](https://images-fe.ssl-images-amazon.com/images/I/51OrMuRqicL.jpg)
 
 https://www.hayakawa-online.co.jp/shopdetail/000000013892/
-https://www.hayakawa-online.co.jp/shop/shopdetail.html?brandcode=000000013892&search=9784150505233&sort=
 腸科学――健康・長生き・ダイエットのための食事法 (ハヤカワ・ノンフィクション文庫)
 Justin Sonnenburg (著), Erica Sonnenburg (著), 鍛原 多惠子 (翻訳)
 
@@ -367,15 +366,6 @@ http://honz.jp/articles/-/43549
 http://honz.jp/articles/-/43555
 『マイクロバイオームの世界　あなたの中と表面と周りにいる何兆もの微生物たち』
 訳者あとがき by 斉藤 隆央
-
-### 2016-11-22
-
-http://www.hayakawa-online.co.jp/shopdetail/000000013372/
-腸科学　健康な人生を支える細菌の育て方 (早川書房)
-
-澤畑 塁2016年12月04日
-http://honz.jp/articles/-/43583
-「ビッグマック」を食べよう 『腸科学　健康な人生を支える細菌の育て方』 - HONZ
 
 ### 2016-11-12
 ![](https://images-fe.ssl-images-amazon.com/images/I/51-Ia6Av8eL._AC_US160_.jpg)
