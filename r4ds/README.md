@@ -39,11 +39,15 @@ ggplot(data = mpg) +
   geom_point(mapping = aes(x = displ, y = hwy))
 ```
 
+<img src="https://d33wubrfki0l68.cloudfront.net/9f135433aca5356d04e503887ebab7d475a5f1cd/d33d1/visualize_files/figure-html/unnamed-chunk-4-1.png" width=50%>
+
 ## [3.3 Aesthetic mappings](https://r4ds.had.co.nz/data-visualisation.html#aesthetic-mappings)
 ```
 ggplot(data = mpg) + 
   geom_point(mapping = aes(x = displ, y = hwy, color = class))
 ```
+
+<img src="https://d33wubrfki0l68.cloudfront.net/8343557caa1271090c9f8edc217c87f9aca285fc/1afc5/visualize_files/figure-html/unnamed-chunk-8-1.png" width=50%>
 
 ----------
 # [5 Data transformation](https://r4ds.had.co.nz/transform.html)
@@ -51,40 +55,7 @@ ggplot(data = mpg) +
 ----------
 # [6 Workflow: scripts](https://r4ds.had.co.nz/workflow-scripts.html)
 
-![](https://d33wubrfki0l68.cloudfront.net/8a64bb047429d7ae0e2acae35c40e421e6439bf6/80e5d/diagrams/rstudio-editor.png)
-
-----------
-# [7 Exploratory Data Analysis](https://r4ds.had.co.nz/exploratory-data-analysis.html)
-探索的データ分析
-
-## 7.3 Variation
-
-### 7.3.1 Visualising distributions
-
-```
-ggplot(data = diamonds) +
-  geom_bar(mapping = aes(x = cut))
-
-diamonds %>% 
-  count(cut)
-
-ggplot(data = diamonds) +
-  geom_histogram(mapping = aes(x = carat), binwidth = 0.5)
-
-diamonds %>% 
-  count(cut_width(carat, 0.5))
-
-smaller <- diamonds %>% 
-  filter(carat < 3)
-  
-ggplot(data = smaller, mapping = aes(x = carat)) +
-  geom_histogram(binwidth = 0.1)
-
-ggplot(data = smaller, mapping = aes(x = carat, colour = cut)) +
-  geom_freqpoly(binwidth = 0.1)
-
-
-```
+<img src="https://d33wubrfki0l68.cloudfront.net/8a64bb047429d7ae0e2acae35c40e421e6439bf6/80e5d/diagrams/rstudio-editor.png" width=50%>
 
 ----------
 # 
