@@ -1,14 +1,19 @@
 # books.microbe
 
 ## Table of Contents
+- [featuring](#featuring)
+- [twitter](#twitter)
 - [updates](#updates)
   - [2019-03-22](#2019-03-22) これからの微生物学
 マイクロバイオータからCRISPRへ
   - [2019-03-21](#2019-03-21) 子どもの人生は「腸」で決まる Dirt Is Good
-  - [](#)
+  - [2018-12-14](#2018-12-14) ウイルスの意味論
+  - [2018-08-31](#2018-08-31) 土・牛・微生物ー文明の衰退を食い止める土の話
   - [2018-06-28](#2018-06-28) 腸と脳
+体内の会話はいかにあなたの気分や選択や健康を左右するか
   - [2018-06-15](#2018-06-15) ガンより怖い薬剤耐性菌
   - [2018-06-02](#2018-06-02) 細菌が人をつくる | ロブ・ナイト 著
+  - [2018-03-20](#2018-03-20) 闘う微生物
   - [2018-01-25](#2018-01-25) 感染症の世界史
   - [2017-09-20](#2017-09-20) 抗生物質と人間
   - [2017-08-18](#2017-08-18) 微生物の驚異 | 日経サイエンス
@@ -22,12 +27,36 @@
   - [2015-11-02](#2015-11-02) 見えない巨人―微生物
   - [2015-07-01](#2015-07-01) 失われてゆく、我々の内なる細菌
   - [](#)
-  - [](#)
-  - [](#)
-- [twitter](#twitter)
-- [featuring](#featuring)
+  - [2007-12-20](#2007-12-20) 疫病と世界史（上）
 - [nikkei-science](#nikkei-science)
 - [sciencebook](#sciencebook) 科学に佇む一行読書の書斎
+
+----------
+## featuring
+
+----------
+## twitter
+
+- https://twitter.com/search?q="これからの微生物学"
+- https://twitter.com/search?q="子どもの人生は「腸」で決まる"
+- 
+- https://twitter.com/search?q="土・牛・微生物"
+- https://twitter.com/search?q="腸と脳"%20"体内の会話はいかにあなたの気分や選択や健康を左右するか"
+- https://twitter.com/search?q="ガンより怖い薬剤耐性菌"
+- 
+- https://twitter.com/search?q="細菌が人をつくる"
+- 
+- https://twitter.com/search?q="マイクロバイオームの世界"
+- 
+- https://twitter.com/search?q="土と内臓"
+- 
+- https://twitter.com/search?q="闘う微生物"
+- https://twitter.com/search?q=%22抗生物質と人間%22
+- https://twitter.com/search?q=%22微生物の驚異%22
+- https://twitter.com/search?q=あなたの体は９割が細菌
+- https://twitter.com/search?q=失われてゆく、我々の内なる細菌
+- https://twitter.com/search?q=世界は細菌にあふれ、人は細菌によって生かされる
+- https://twitter.com/search?q=%22ガンより怖い薬剤耐性菌%22
 
 ----------
 ## updates
@@ -41,6 +70,10 @@ https://www.msz.co.jp/book/detail/08767.html
 
 https://www.msz.co.jp/topics/08767/
 コサール『これからの微生物学』訳者あとがき（矢倉英隆）ウェブ転載 - みすず書房
+
+https://twitter.com/YakuraHidetaka/status/1179244870013263874
+矢倉英隆 on Twitter: "『これからの微生物学』（拙訳、みすず書房、2019）の著者パスカル・コサール教授を囲むシンポジウムが11月12日（火）午後、日本パスツール財団と国立国際医療研究センター（NCGM）の共催により開催されます。会場はNCGM 研修棟5階 大会議室。プログラムは以下の通りです。https://t.co/wV04yGuFl9"
+9:01 PM - 1 Oct 2019
 
 ### 2019-03-21
 ![https://www.kinokuniya.co.jp/f/dsg-01-9784492046432](https://www.kinokuniya.co.jp/images/goods/ar2/web/imgdata2/44920/4492046437.jpg)
@@ -95,9 +128,11 @@ https://www.msz.co.jp/book/detail/08753.html
 
 https://www.primate.or.jp/serialization/116%EF%BC%8E新刊書「ウイルスの意味論%E3%80%80―%E3%80%80生命の定義/
 
+https://thinkeroid.hateblo.jp/entry/20190501/1556698797
+まだ「ウイルスは生物か無生物か」で消耗してるの？ - 殺シ屋鬼司令II
+
 http://dain.cocolog-nifty.com/myblog/2019/02/post-40aa.html
 『ウイルスの意味論』はスゴ本: わたしが知らないスゴ本は、きっとあなたが読んでいる
-
 
 ### 2018-08-31
 
@@ -138,6 +173,9 @@ https://ee.asahipress.com/bookdetail_norm/9784255010571/
 細菌が人をつくる | 書籍 | 朝日出版社
 ［著者紹介］ ロブ・ナイト 著 / ブレンダン・ビューラー 著 / ［訳者紹介］ 山田拓司＋東京工業大学山田研究室 訳
 
+https://lab.mykinso.com/syohyo/181204/
+【ブックレビュー】身体と細菌がつむぐ「私」という軌跡 『細菌が人をつくる』
+
 ### 2018-06-15
 
 ![](https://dosbg3xlm0x1t.cloudfront.net/images/items/9784087210361/500/9784087210361.jpg)
@@ -172,9 +210,9 @@ https://www.kinokuniya.co.jp/f/dsg-01-9784087210361
 
 ![](https://shop38-makeshop.akamaized.net/shopimages/HOL2014BtoC/0000000138922.jpg)
 
+https://www.hayakawa-online.co.jp/shopdetail/000000013892/
 腸科学――健康・長生き・ダイエットのための食事法 (ハヤカワ・ノンフィクション文庫)
 Justin Sonnenburg (著), Erica Sonnenburg (著), 鍛原 多惠子 (翻訳)
-https://www.hayakawa-online.co.jp/shopdetail/000000013892/
 
 https://www.flierinc.com/summary/1122
 腸科学 / 健康な人生を支える細菌の育て方 | 本の要約サイト flier(フライヤー)
@@ -301,6 +339,17 @@ https://anatomy.med.gunma-u.ac.jp/?p=11847
 Anatomy
 もやしもんと感染症屋の気になる菌辞典
 
+### 2017-01-24
+![](http://www.harashobo.co.jp//images/book/369202.jpg)
+
+http://www.harashobo.co.jp/book/b369202.html
+感染源 - 原書房
+防御不能のパンデミックを追う
+
+2017年03月19日
+https://honz.jp/articles/-/43893
+パンデミックの複雑な見取り図『感染源 防御不能のパンデミックを追う』 - HONZ
+
 ### 2016-12-01
 ![](https://www.kinokuniya.co.jp/images/goods/ar2/web/imgdata2/43140/4314011440.jpg)
 
@@ -388,6 +437,21 @@ http://honz.jp/articles/-/41635
 『失われてゆく、我々の内なる細菌』　ピロリ菌だって役に立つ？ 
 
 ----------
+### 2007-12-20
+
+http://www.chuko.co.jp/bunko/2007/12/204954.html
+疫病と世界史（上）｜文庫｜中央公論新社
+
+https://shorebird.hatenablog.com/entry/20150418/1429320502
+「疫病と世界史」 - shorebird　進化心理学中心の書評など
+
+http://dain.cocolog-nifty.com/myblog/2011/12/post-1980.html
+「疫病と世界史」はスゴ本: わたしが知らないスゴ本は、きっとあなたが読んでいる
+- 著者は、この難問に「移動手段の発達」と「疫病の地域性」というツールを使う。
+- つまり、規模が大きく、複雑な組織を有し、人口密度が高く、都市を中心とした共同体が条件だという。そこでは、中間宿主なしに、病原菌が直接ヒトからヒトへ移動する。
+- 「移動手段の発達」が、徒歩、馬、帆船、汽船、そして飛行機と進むにつれ、ほとんど爆発するように感染域が拡大する。飛行機に乗ったトリインフルエンザは、これまでの疫病とは比べ物にならないスピードを誇って良い。
+
+----------
 ## nikkei-science
 
 http://www.nikkei-science.com/?tag=微生物学
@@ -444,35 +508,6 @@ https://twitter.com/endBooks/status/385905594026033153
 【2010/08/07】
 http://sciencebook.blog110.fc2.com/blog-entry-1492.html#納豆菌汚染
 『 バイオ実験超基本Q&A　そして「納豆凶悪伝説」 』
-
-
-----------
-## twitter
-
-- https://twitter.com/search?q="これからの微生物学"
-- https://twitter.com/search?q=%22これからの微生物学%22
-- https://twitter.com/search?q=闘う微生物
-- https://twitter.com/search?q=%22土・牛・微生物%22
-- https://twitter.com/search?q=%22抗生物質と人間%22
-- https://twitter.com/search?q=%22微生物の驚異%22
-- https://twitter.com/search?q=%22マイクロバイオームの世界%22
-- https://twitter.com/search?q=%20土と内臓%20微生物がつくる世界
-- https://twitter.com/search?q=あなたの体は９割が細菌
-- https://twitter.com/search?q=失われてゆく、我々の内なる細菌
-- https://twitter.com/search?q=世界は細菌にあふれ、人は細菌によって生かされる
-- https://twitter.com/search?q=%22ガンより怖い薬剤耐性菌%22
-
-----------
-## featuring
-
-https://thinkeroid.hateblo.jp/entry/20190501/1556698797
-まだ「ウイルスは生物か無生物か」で消耗してるの？ - 殺シ屋鬼司令II
-
-http://dain.cocolog-nifty.com/myblog/2011/12/post-1980.html
-「疫病と世界史」はスゴ本: わたしが知らないスゴ本は、きっとあなたが読んでいる
-- 著者は、この難問に「移動手段の発達」と「疫病の地域性」というツールを使う。
-- つまり、規模が大きく、複雑な組織を有し、人口密度が高く、都市を中心とした共同体が条件だという。そこでは、中間宿主なしに、病原菌が直接ヒトからヒトへ移動する。
-- 「移動手段の発達」が、徒歩、馬、帆船、汽船、そして飛行機と進むにつれ、ほとんど爆発するように感染域が拡大する。飛行機に乗ったトリインフルエンザは、これまでの疫病とは比べ物にならないスピードを誇って良い。
 
 
 ----------
