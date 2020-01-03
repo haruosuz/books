@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-12
+Last Update: 2020-01-03
 
 ----------
 # [R for Data Science](http://r4ds.had.co.nz)
@@ -14,9 +14,24 @@ Last Update: 2019-12
 
 ----------
 # [1 Introduction](http://r4ds.had.co.nz/introduction.html)
+## [1.4 Prerequisites](https://r4ds.had.co.nz/introduction.html#prerequisites)
 
 ----------
 # [3 Data visualisation](https://r4ds.had.co.nz/data-visualisation.html)
+### [3.1.1 Prerequisites](https://r4ds.had.co.nz/data-visualisation.html#prerequisites-1)
+```
+install.packages("tidyverse")
+library(tidyverse)
+```
+
+## [3.2 First steps](https://r4ds.had.co.nz/data-visualisation.html#first-steps)
+```
+mpg
+
+### 3.2.2 Creating a ggplot
+ggplot(data = mpg) + 
+  geom_point(mapping = aes(x = displ, y = hwy))
+```
 
 ----------
 # [5 Data transformation](https://r4ds.had.co.nz/transform.html)
