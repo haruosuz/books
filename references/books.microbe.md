@@ -208,9 +208,11 @@ https://www.kinokuniya.co.jp/f/dsg-01-9784087210361
 
 ### 2018-05-17
 
-![](https://shop38-makeshop.akamaized.net/shopimages/HOL2014BtoC/0000000138922.jpg)
+![https://www.flierinc.com/summary/1122](https://fl5cdn2.azureedge.net/summary/1122_cover_300.jpg)
+![https://honz.jp/articles/-/43583](https://images-fe.ssl-images-amazon.com/images/I/51OrMuRqicL.jpg)
 
 https://www.hayakawa-online.co.jp/shopdetail/000000013892/
+https://www.hayakawa-online.co.jp/shop/shopdetail.html?brandcode=000000013892&search=9784150505233&sort=
 腸科学――健康・長生き・ダイエットのための食事法 (ハヤカワ・ノンフィクション文庫)
 Justin Sonnenburg (著), Erica Sonnenburg (著), 鍛原 多惠子 (翻訳)
 
