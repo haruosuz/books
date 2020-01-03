@@ -2,7 +2,6 @@
 
 ## Table of Contents
 - [featuring](#featuring)
-- [twitter](#twitter)
 - [updates](#updates)
   - [2019-03-22](#2019-03-22) これからの微生物学
 マイクロバイオータからCRISPRへ
@@ -30,33 +29,10 @@
   - [2007-12-20](#2007-12-20) 疫病と世界史（上）
 - [nikkei-science](#nikkei-science)
 - [sciencebook](#sciencebook) 科学に佇む一行読書の書斎
+- [twitter](#twitter)
 
 ----------
 ## featuring
-
-----------
-## twitter
-
-- https://twitter.com/search?q="これからの微生物学"
-- https://twitter.com/search?q="子どもの人生は「腸」で決まる"
-- 
-- https://twitter.com/search?q="土・牛・微生物"
-- https://twitter.com/search?q="腸と脳"%20"体内の会話はいかにあなたの気分や選択や健康を左右するか"
-- https://twitter.com/search?q="ガンより怖い薬剤耐性菌"
-- 
-- https://twitter.com/search?q="細菌が人をつくる"
-- 
-- https://twitter.com/search?q="マイクロバイオームの世界"
-- 
-- https://twitter.com/search?q="土と内臓"
-- 
-- https://twitter.com/search?q="闘う微生物"
-- https://twitter.com/search?q=%22抗生物質と人間%22
-- https://twitter.com/search?q=%22微生物の驚異%22
-- https://twitter.com/search?q=あなたの体は９割が細菌
-- https://twitter.com/search?q=失われてゆく、我々の内なる細菌
-- https://twitter.com/search?q=世界は細菌にあふれ、人は細菌によって生かされる
-- https://twitter.com/search?q=%22ガンより怖い薬剤耐性菌%22
 
 ----------
 ## updates
@@ -500,15 +476,29 @@ https://twitter.com/endBooks/status/385905594026033153
 http://sciencebook.blog110.fc2.com/blog-entry-1492.html#納豆菌汚染
 『 バイオ実験超基本Q&A　そして「納豆凶悪伝説」 』
 
+----------
+## twitter
+
+- https://twitter.com/search?q="これからの微生物学"
+- https://twitter.com/search?q="子どもの人生は「腸」で決まる"
+- 
+- https://twitter.com/search?q="土・牛・微生物"
+- https://twitter.com/search?q="腸と脳"%20"体内の会話はいかにあなたの気分や選択や健康を左右するか"
+- https://twitter.com/search?q="ガンより怖い薬剤耐性菌"
+- 
+- https://twitter.com/search?q="細菌が人をつくる"
+- 
+- https://twitter.com/search?q="マイクロバイオームの世界"
+- 
+- https://twitter.com/search?q="土と内臓"
+- 
+- https://twitter.com/search?q="闘う微生物"
+- https://twitter.com/search?q=%22抗生物質と人間%22
+- https://twitter.com/search?q=%22微生物の驚異%22
+- https://twitter.com/search?q=あなたの体は９割が細菌
+- https://twitter.com/search?q=失われてゆく、我々の内なる細菌
+- https://twitter.com/search?q=世界は細菌にあふれ、人は細菌によって生かされる
+- https://twitter.com/search?q=%22ガンより怖い薬剤耐性菌%22
 
 ----------
-
-
-
-
-
-
-
-
-
 
