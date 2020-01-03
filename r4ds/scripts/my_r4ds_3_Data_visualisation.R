@@ -4,7 +4,6 @@
 ### 3.1.1 Prerequisites
 library(tidyverse)
 
-# 3.2 First steps
 ## 3.2 First steps
 ### 3.2.1 The mpg data frame
 ### 1.2.1　mpgデータフレーム
