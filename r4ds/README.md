@@ -19,7 +19,16 @@ Last Update: 2020-01
 ## [1.4 Prerequisites](https://r4ds.had.co.nz/introduction.html#prerequisites)
 ### 1.4.1 R
 ### 1.4.2 RStudio
-### 1.4.3 The tidyverse
+### [1.4.3 The tidyverse](https://r4ds.had.co.nz/introduction.html#the-tidyverse)
+```
+install.packages("tidyverse")
+library(tidyverse)
+```
+
+### [1.4.4 Other packages](https://r4ds.had.co.nz/introduction.html#other-packages)
+```
+install.packages(c("nycflights13", "gapminder", "Lahman"))
+```
 
 ----------
 # [3 Data visualisation](https://r4ds.had.co.nz/data-visualisation.html)
