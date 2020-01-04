@@ -81,25 +81,27 @@ ggplot(data = mpg) +
 
 ## R for Data Science
 
-![http://shop.oreilly.com/product/0636920034407.do](https://covers.oreillystatic.com/images/0636920034407/cat.gif)
-
 2017/1/10
 http://shop.oreilly.com/product/0636920034407.do
 R for Data Science - O'Reilly Media
 
-- https://www.safaribooksonline.com/library/view/r-for-data/9781491910382/
-- https://www.amazon.com/dp/1491910399
-- https://github.com/hadley/r4ds
+<img src="https://covers.oreillystatic.com/images/0636920034407/cat.gif" width=25%>
+
+https://www.safaribooksonline.com/library/view/r-for-data/9781491910382/
+
+https://www.amazon.com/dp/1491910399
+
+https://github.com/hadley/r4ds
 
 ## Rではじめるデータサイエンス
-
-![https://www.oreilly.co.jp/books/9784873118147/](https://www.oreilly.co.jp/books/images/picture978-4-87311-814-7.gif)
 
 2017/10/25
 https://www.oreilly.co.jp/books/9784873118147/
 O'Reilly Japan - Rではじめるデータサイエンス
 https://www.oreilly.co.jp/books/9784873118147/#toc
 目次
+
+![https://www.oreilly.co.jp/books/9784873118147/](https://www.oreilly.co.jp/books/images/picture978-4-87311-814-7.gif)
 
 https://www.amazon.co.jp/dp/487311814X/
 
