@@ -4,7 +4,7 @@ Last Update: 2020-01
 ----------
 # [R for Data Science](http://r4ds.had.co.nz)
 
-![](https://covers.oreillystatic.com/images/0636920034407/cat.gif)
+![](https://d33wubrfki0l68.cloudfront.net/b88ef926a004b0fce72b2526b0b5c4413666a4cb/24a30/cover.png)
 
 - Welcome
 - [1](#1) Introduction
@@ -81,6 +81,9 @@ ggplot(data = mpg) +
 
 ## R for Data Science
 
+![http://shop.oreilly.com/product/0636920034407.do](https://covers.oreillystatic.com/images/0636920034407/cat.gif)
+
+2017/1/10
 http://shop.oreilly.com/product/0636920034407.do
 R for Data Science - O'Reilly Media
 
@@ -90,13 +93,25 @@ R for Data Science - O'Reilly Media
 
 ## Rではじめるデータサイエンス
 
-https://www.oreilly.co.jp/books/9784873118147/#toc
+![https://www.oreilly.co.jp/books/9784873118147/](https://www.oreilly.co.jp/books/images/picture978-4-87311-814-7.gif)
+
+2017/10/25
+https://www.oreilly.co.jp/books/9784873118147/
 O'Reilly Japan - Rではじめるデータサイエンス
+https://www.oreilly.co.jp/books/9784873118147/#toc
 目次
 
-![](https://www.oreilly.co.jp/books/images/picture978-4-87311-814-7.gif)
-
 https://www.amazon.co.jp/dp/487311814X/
+
+2019.12.28
+https://miscellaneous.tokyo/blog/r-for-data-science/
+Hadley Wickham, et al.：Ｒではじめるデータサイエンス | 書評と練習問題の解答例
+
+Nov 12, 2019
+https://github.com/wasabi1989/R_for_Data_Science_Answers
+Rで始めるデータサイエンスの練習問題の解答
+この本はRではじめるデータサイエンスの演習問題の回答を記載したものです。したがって、章立ては日本語版に準じています。Gitbook版はこちら。
+https://sugiura.gitbook.io/r-for-data-science-answers/
 
 5 Jan 2018
 https://twitter.com/f_nisihara/status/949227695908335616
@@ -109,9 +124,6 @@ http://twosquirrel.mints.ne.jp/?p=21629
 2017/12/15
 http://twosquirrel.mints.ne.jp/?p=21626
 「Rではじめるデータサイエンス」を写経（１）ggplot2
-
-2017/10/25
-https://www.oreilly.co.jp/books/9784873118147/
 
 ----------
 
