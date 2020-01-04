@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2020-01-03
+Last Update: 2020-01
 
 ----------
 # [R for Data Science](http://r4ds.had.co.nz)
@@ -7,11 +7,12 @@ Last Update: 2020-01-03
 ![](https://covers.oreillystatic.com/images/0636920034407/cat.gif)
 
 - Welcome
-- [1 Introduction](#1-introduction)
-- [3 Data visualisation](#)
-- [5 Data transformation](#)
+- [1](#1) Introduction
+- [3](#3) Data visualisation
+- [5](#5) Data transformation
+- [6](#6) Workflow: scripts
 - [](#)
-- [27 R Markdown](#)
+- [27](#27) R Markdown
 
 ----------
 # [1 Introduction](http://r4ds.had.co.nz/introduction.html)
