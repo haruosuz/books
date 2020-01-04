@@ -4,7 +4,7 @@ Last Update: 2020-01
 ----------
 # [R for Data Science](http://r4ds.had.co.nz)
 
-<img src="https://d33wubrfki0l68.cloudfront.net/b88ef926a004b0fce72b2526b0b5c4413666a4cb/24a30/cover.png" width=50%>
+<img src="https://d33wubrfki0l68.cloudfront.net/b88ef926a004b0fce72b2526b0b5c4413666a4cb/24a30/cover.png" width=25%>
 
 - Welcome
 - [1](#1) Introduction
