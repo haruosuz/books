@@ -85,10 +85,7 @@ ggplot(data = mpg) +
 http://shop.oreilly.com/product/0636920034407.do
 R for Data Science - O'Reilly Media
 
-
 ![](https://covers.oreillystatic.com/images/0636920034407/cat.gif)
-
-<img src="https://covers.oreillystatic.com/images/0636920034407/cat.gif" width=25%>
 
 https://www.safaribooksonline.com/library/view/r-for-data/9781491910382/
 
