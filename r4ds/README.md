@@ -7,12 +7,14 @@ Last Update: 2020-01
 <img src="https://d33wubrfki0l68.cloudfront.net/b88ef926a004b0fce72b2526b0b5c4413666a4cb/24a30/cover.png" width=25%>
 
 - Welcome
-- [1](#1) Introduction
-- [3](#3) Data visualisation
-- [5](#5) Data transformation
-- [6](#6) Workflow: scripts
+- [1 Introduction](#1-introduction)
+- [3 Data visualisation](#3-data-visualisation)
 - [](#)
-- [27](#27) R Markdown
+- [5 Data transformation](#5-data-transformation)
+- [6 Workflow: scripts](#6-workflow-scripts)
+- [](#)
+- [27 R Markdown](#27-r-markdown)
+- [References](#references)
 
 ----------
 # [1 Introduction](http://r4ds.had.co.nz/introduction.html)
