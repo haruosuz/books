@@ -4,25 +4,38 @@
 - [2019-06-15](#2019-06-15) 生命科学の実験デザイン〔第4版〕
 - [2019-04-01](#2019-04-01) 心理学の7つの大罪
 - [2019-03-07](#2019-03-07) 生命科学クライシス
-- [1981-09-22](#1981-09-22) 理科系の作文技術
 - [2018-12-04](#2018-12-04) 生命科学データベース・ウェブツール
 - [2018-11-05](#2018-11-05) 新版 統計学のセンス
 - [2018-07-30](#2018-07-30) なぜ科学はストーリーを必要としているのか
+- [2017-09-29](#2017-09-29) Dr.Bonoの生命科学データ解析
 - [2016-09-23](#2016-09-23) 生命、エネルギー、進化
 - [2016-08-26](#2016-08-26) 生物学の哲学入門
+- [1981-09-22](#1981-09-22) 理科系の作文技術
 
 ----------
 
 ## 2019
 
+### 2019-09-27
+
+https://www.medsi.co.jp/products/detail/3708
+(MEDSi)株式会社 メディカル・サイエンス・インターナショナル / 生命科学者のためのDr.Bonoデータ解析実践道場
+
+https://github.com/bonohu/DrBonoDojo
+GitHub - bonohu/DrBonoDojo: 生命科学者のためのDr.Bonoデータ解析実践道場
+
+2019/9/25
+http://blog.hypoxia.jp/tag/drbonodojo
+「生命科学者のためのDr.Bonoデータ解析実践道場」が出ました
 
 ### 2019-06-15
 
 http://www.unp.or.jp/ISBN/ISBN978-4-8158-0950-8.html
 生命科学の実験デザイン〔第4版〕 « 名古屋大学出版会
-
+https://www.unp.or.jp/shared/img/950_ch1.pdf
+「第1章　デザインはなぜ大切か」（前半部分）
 https://allreviews.jp/review/3488
-『生命科学の実験デザイン〔第4版〕』(名古屋大学出版会) - 著者：G・D・ラクストン,N・コルグレイヴ 翻訳：麻生 一枝,南條 郁子 - 麻生 一枝,南條 郁子による訳者あとがき
+【ALL REVIEWS】訳者あとがき
 
 https://leeswijzer.hatenadiary.com/entry/2019/06/23/052631
 『生命科学の実験デザイン［第4版］』目次
@@ -71,9 +84,7 @@ https://twitter.com/search?q=生命科学クライシス
 2019.05.17
 https://biz-journal.jp/2019/05/post_27930.html
 なぜ小保方晴子氏は「STAP細胞を見た」と思い込んだ？間違った発表をする科学者たち
-- https://hatena.magajin.tokyo/?p=7411
 - https://ceron.jp/url/biz-journal.jp/2019/05/post_27930.html
-- https://news.so-net.ne.jp/article/detail/1771027/
 - https://news.mixi.jp/view_news.pl?id=5625216&media_id=175
 - https://www.excite.co.jp/news/article/Bizjournal_mixi201905_post-15443/
 
@@ -130,6 +141,12 @@ https://tjo.hatenablog.com/entry/2018/12/12/190000
 
 https://twitter.com/h_okumura/status/1067353061310455808
 Haruhiko Okumura on Twitter: "最近買った本。こういう誤解が多いけれど，Wilcoxon順位和検定は等分散の場合のt検定みたいなもので，図(b)(c)に適用するものではないと思う… "
+
+----------
+## 2017
+### 2017-09-29
+https://www.medsi.co.jp/products/detail/3588
+Dr.Bonoの生命科学データ解析
 
 ----------
 
