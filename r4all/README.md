@@ -32,25 +32,6 @@ Front Matter
 9 Closing Remarks: Final Comments and Encouragement
 
 ----------
-
-http://r4all.org/books/datasets/
-Datasets | R4All
-
-```
-# データセットをダウンロードする
-# download datasets from <http://r4all.org/books/datasets/>
-wget -b -o wget-log.txt https://github.com/R4All/datasets/archive/master.zip
-
-# `unzip`コマンドでファイルを展開する
-# decompress files with the command `unzip`
-unzip master.zip
-
-# ディレクトリを移動する
-# change to the directory
-cd datasets-master/
-```
-
-----------
 # 1 Getting and Getting Acquainted with R
 第1章 Rと仲よくなろう
 
