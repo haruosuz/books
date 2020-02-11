@@ -9,7 +9,7 @@ Last Update: 2020-01
 - Welcome
 - [1 Introduction](#1-introduction)
 - [3 Data visualisation](#3-data-visualisation)
-- [](#)
+- [4 Workflow: basics](#)
 - [5 Data transformation](#5-data-transformation)
 - [6 Workflow: scripts](#6-workflow-scripts)
 - [](#)
@@ -62,7 +62,27 @@ ggplot(data = mpg) +
 <img src="https://d33wubrfki0l68.cloudfront.net/8343557caa1271090c9f8edc217c87f9aca285fc/1afc5/visualize_files/figure-html/unnamed-chunk-8-1.png" width=50%>
 
 ----------
+# [4 Workflow: basics](https://r4ds.had.co.nz/workflow-basics.html#coding-basics)
+## 4.1 Coding basics
+
+----------
 # [5 Data transformation](https://r4ds.had.co.nz/transform.html)
+## 5.1 Introduction
+
+how to transform your data using the `dplyr` package
+
+### 5.1.1 Prerequisites
+```
+library(nycflights13)
+library(tidyverse)
+```
+
+### 5.1.2 nycflights13
+```
+flights
+#View(flights) # To see the whole dataset
+```
+
 
 ----------
 # [6 Workflow: scripts](https://r4ds.had.co.nz/workflow-scripts.html)
