@@ -1,4 +1,4 @@
-Last Update: 2019-12
+Last Update: 2020-02-15
 
 ----------
 # Getting Started with R
@@ -17,7 +17,7 @@ Getting Started with R, Second Edition | R4All
 
 Electric version at Oxford Scholarship Online.
 http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780198787839.001.0001/acprof-9780198787839
-
+```
 Contents
 Go to page:
 Front Matter
@@ -30,6 +30,7 @@ Front Matter
 7 Getting Started with Generalized Linear Models
 8 Pimping Your Plots: Scales and Themes in ggplot2
 9 Closing Remarks: Final Comments and Encouragement
+```
 
 ----------
 # 1 Getting and Getting Acquainted with R
@@ -49,6 +50,7 @@ Front Matter
 
 ----------
 # 5 Introducing Statistics in R
+
 
 
 ----------
