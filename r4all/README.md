@@ -33,25 +33,40 @@ Front Matter
 ```
 
 ----------
-# 1 Getting and Getting Acquainted with R
+## 1 Getting and Getting Acquainted with R
 第1章 Rと仲よくなろう
 
 ----------
-# 2 Getting Your Data into R
+## 2 Getting Your Data into R
 第2章 データを読み込む
 
 ----------
-# 3 Data Management, Manipulation, and Exploration with dplyr
+## 3 Data Management, Manipulation, and Exploration with dplyr
 第3章 dplyrでデータを整える
 
 ----------
-# 4 Visualizing Your Data
+## 4 Visualizing Your Data
 第4章 データを図で見る
 
 ----------
-# 5 Introducing Statistics in R
+## 5 Introducing Statistics in R
+第5章 統計解析をちゃんとした手順でやってみる
 
+----------
+## 6 Advancing Your Statistics in R
+第6章 もっと高度な統計解析をやろう
 
+----------
+## 7 Getting Started with Generalized Linear Models
+第7章 一般化線形モデル(GLM)を使ってみる
+
+----------
+## 8 Pimping Your Plots: Scales and Themes in ggplot2
+第8章 プロットをきれいに整える：ggplotで座標軸とテーマをいじる
+
+----------
+## 9 Closing Remarks: Final Comments and Encouragement
+第9章 終わりに：最後のコメントとはげまし
 
 ----------
 
