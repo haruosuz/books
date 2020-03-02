@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2020-01
+Last Update: 2020-03
 
 ----------
 # [R for Data Science](http://r4ds.had.co.nz)
@@ -9,15 +9,20 @@ Last Update: 2020-01
 - Welcome
 - [1 Introduction](#1-introduction)
 - [3 Data visualisation](#3-data-visualisation)
-- [4 Workflow: basics](#)
+- [4 Workflow: basics](#4-workflow-basics)
 - [5 Data transformation](#5-data-transformation)
 - [6 Workflow: scripts](#6-workflow-scripts)
+- [7 Exploratory Data Analysis](#)
+- [](#)
+- [10 Tibbles](#)
+- [11 Data import](#)
 - [](#)
 - [27 R Markdown](#27-r-markdown)
 - [References](#references)
 
 ----------
 # [1 Introduction](http://r4ds.had.co.nz/introduction.html)
+# まえがき
 ## [1.4 Prerequisites](https://r4ds.had.co.nz/introduction.html#prerequisites)
 ### 1.4.1 R
 ### 1.4.2 RStudio
@@ -34,6 +39,7 @@ install.packages(c("nycflights13", "gapminder", "Lahman"))
 
 ----------
 # [3 Data visualisation](https://r4ds.had.co.nz/data-visualisation.html)
+# 1章　ggplot2によるデータ可視化
 ### [3.1.1 Prerequisites](https://r4ds.had.co.nz/data-visualisation.html#prerequisites-1)
 ```
 install.packages("tidyverse")
@@ -63,10 +69,12 @@ ggplot(data = mpg) +
 
 ----------
 # [4 Workflow: basics](https://r4ds.had.co.nz/workflow-basics.html#coding-basics)
+# 2章　ワークフロー：基本
 ## 4.1 Coding basics
 
 ----------
 # [5 Data transformation](https://r4ds.had.co.nz/transform.html)
+# 3章　dplyrによるデータ変換
 ## 5.1 Introduction
 
 how to transform your data using the `dplyr` package
@@ -83,14 +91,43 @@ flights
 #View(flights) # To see the whole dataset
 ```
 
-
 ----------
 # [6 Workflow: scripts](https://r4ds.had.co.nz/workflow-scripts.html)
+# 4章　ワークフロー：スクリプト
 
 <img src="https://d33wubrfki0l68.cloudfront.net/8a64bb047429d7ae0e2acae35c40e421e6439bf6/80e5d/diagrams/rstudio-editor.png" width=50%>
 
 ----------
+# [7 Exploratory Data Analysis](https://r4ds.had.co.nz/exploratory-data-analysis.html)
+# 5章　探索的データ分析
+
+----------
 # 
+
+----------
+# []()
+
+----------
+# [10 Tibbles](https://r4ds.had.co.nz/tibbles.html)
+# 7章　tibbleのtibble
+
+----------
+# [11 Data import](https://r4ds.had.co.nz/data-import.html)
+# 8章　readrによるデータインポート
+
+
+----------
+# []()
+
+
+
+----------
+# 
+
+
+
+
+
 
 ----------
 # [27 R Markdown](https://r4ds.had.co.nz/r-markdown.html)
