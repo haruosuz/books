@@ -8,14 +8,17 @@ Last Update: 2020-03
 
 - Welcome
 - [1 Introduction](#1-introduction)
+- [](#)
+- [2 Introduction](#)
 - [3 Data visualisation](#3-data-visualisation)
 - [4 Workflow: basics](#4-workflow-basics)
 - [5 Data transformation](#5-data-transformation)
 - [6 Workflow: scripts](#6-workflow-scripts)
-- [7 Exploratory Data Analysis](#)
-- [](#)
-- [10 Tibbles](#)
-- [11 Data import](#)
+- [7 Exploratory Data Analysis](#7-exploratory-data-analysis)
+- [8 Workflow: projects](#)
+- [9 Introduction](#)
+- [10 Tibbles](#10-tibbles)
+- [11 Data import](#11-data-import)
 - [](#)
 - [27 R Markdown](#27-r-markdown)
 - [References](#references)
@@ -36,6 +39,13 @@ library(tidyverse)
 ```
 install.packages(c("nycflights13", "gapminder", "Lahman"))
 ```
+
+
+https://d33wubrfki0l68.cloudfront.net/795c039ba2520455d833b4034befc8cf360a70ba/558a5/diagrams/data-science-explore.png
+
+----------
+# [2 Introduction](https://r4ds.had.co.nz/explore-intro.html)
+# 第Ⅰ部　探索
 
 ----------
 # [3 Data visualisation](https://r4ds.had.co.nz/data-visualisation.html)
@@ -102,10 +112,12 @@ flights
 # 5章　探索的データ分析
 
 ----------
-# 
+# [8 Workflow: projects](https://r4ds.had.co.nz/workflow-projects.html)
+# 6章　ワークフロー：プロジェクト
 
 ----------
-# []()
+# [9 Introduction](https://r4ds.had.co.nz/wrangle-intro.html)
+# 第Ⅱ部　データラングリング
 
 ----------
 # [10 Tibbles](https://r4ds.had.co.nz/tibbles.html)
@@ -148,8 +160,6 @@ R for Data Science - O'Reilly Media
 
 https://www.safaribooksonline.com/library/view/r-for-data/9781491910382/
 
-https://www.amazon.com/dp/1491910399
-
 https://github.com/hadley/r4ds
 
 ## Rではじめるデータサイエンス
@@ -162,8 +172,6 @@ https://www.oreilly.co.jp/books/9784873118147/#toc
 
 ![https://www.oreilly.co.jp/books/9784873118147/](https://www.oreilly.co.jp/books/images/picture978-4-87311-814-7.gif)
 
-https://www.amazon.co.jp/dp/487311814X/
-
 2019.12.28
 https://miscellaneous.tokyo/blog/r-for-data-science/
 Hadley Wickham, et al.：Ｒではじめるデータサイエンス | 書評と練習問題の解答例
@@ -173,6 +181,9 @@ https://github.com/wasabi1989/R_for_Data_Science_Answers
 Rで始めるデータサイエンスの練習問題の解答
 この本はRではじめるデータサイエンスの演習問題の回答を記載したものです。したがって、章立ては日本語版に準じています。Gitbook版はこちら。
 https://sugiura.gitbook.io/r-for-data-science-answers/
+
+http://knknkn.hatenablog.com/entry/2019/01/16/094300
+Rではじめるデータサイエンス 演習1章① 2,3節 - まずは蝋の翼から。
 
 5 Jan 2018
 https://twitter.com/f_nisihara/status/949227695908335616
