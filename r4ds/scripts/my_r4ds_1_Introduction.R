@@ -1,5 +1,6 @@
 # http://r4ds.had.co.nz/introduction.html
 # 1 Introduction
+# まえがき
 
 ### 1.4.3 The tidyverse
 #install.packages("tidyverse")
