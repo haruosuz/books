@@ -300,11 +300,13 @@ https://twilog.org/man10000/month-1712
 空調された病室内の空気の微生物コミュニティと屋外のそれとは全く共通点がなかった。患者は自分たちの「微生物シチュー」の中で効果的に「煮込まれ」てる。その状態回避の最善策それは「窓を開ける」こと。それをナイチンゲールはマイクロバイオームの知識なしにやってのけた。
 
 ### 2017-03-21
-![](https://publications.asahi.com/ecs/tool/browse_image/?image=18916.jpg)
+![](https://publications.asahi.com/ecs/image/cover_image/18916.jpg)
 
 https://publications.asahi.com/ecs/detail/?item_id=18916
 もやしもんと感染症屋の気になる菌辞典
 岩田 健太郎 著 ／ 石川 雅之 絵 
+立ち読み
+![](https://publications.asahi.com/ecs/tool/browse_image/?image=18916.jpg)
 
 科学に佇むｻﾝｸｺｽﾄ on Twitter:
 http://sciencebook.blog110.fc2.com/blog-entry-2917.html
@@ -313,7 +315,10 @@ http://sciencebook.blog110.fc2.com/blog-entry-2917.html
 2017年11月27日
 https://anatomy.med.gunma-u.ac.jp/?p=11847
 Anatomy
-もやしもんと感染症屋の気になる菌辞典
+
+2017年04月27日
+https://ww.honzuki.jp/book/247411/review/172814/
+『もやしもんと感染症屋の気になる菌辞典』の感想、レビュー(Tetsu Okamotoさんの書評)【本が好き!】
 
 ### 2017-01-24
 ![](http://www.harashobo.co.jp//images/book/369202.jpg)
