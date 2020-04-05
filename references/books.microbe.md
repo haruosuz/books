@@ -302,6 +302,13 @@ https://twilog.org/man10000/month-1712
 ### 2017-03-21
 ![](https://publications.asahi.com/ecs/image/cover_image/18916.jpg)
 
+
+![](https://publications.asahi.com/ecs/image/cover_image/18916.jpg)
+![](https://m.media-amazon.com/images/I/51S8neNxdNL._SL160_.jpg)
+![](https://images-fe.ssl-images-amazon.com/images/I/51S8neNxdNL._SL160_.jpg)
+![](https://images-fe.ssl-images-amazon.com/images/I/51S8neNxdNL._SS120_.jpg)
+
+
 https://publications.asahi.com/ecs/detail/?item_id=18916
 もやしもんと感染症屋の気になる菌辞典
 岩田 健太郎 著 ／ 石川 雅之 絵 
