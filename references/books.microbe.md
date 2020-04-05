@@ -300,14 +300,7 @@ https://twilog.org/man10000/month-1712
 空調された病室内の空気の微生物コミュニティと屋外のそれとは全く共通点がなかった。患者は自分たちの「微生物シチュー」の中で効果的に「煮込まれ」てる。その状態回避の最善策それは「窓を開ける」こと。それをナイチンゲールはマイクロバイオームの知識なしにやってのけた。
 
 ### 2017-03-21
-![](https://publications.asahi.com/ecs/image/cover_image/18916.jpg)
-
-
-![](https://publications.asahi.com/ecs/image/cover_image/18916.jpg)
 ![](https://m.media-amazon.com/images/I/51S8neNxdNL._SL160_.jpg)
-![](https://images-fe.ssl-images-amazon.com/images/I/51S8neNxdNL._SL160_.jpg)
-![](https://images-fe.ssl-images-amazon.com/images/I/51S8neNxdNL._SS120_.jpg)
-
 
 https://publications.asahi.com/ecs/detail/?item_id=18916
 もやしもんと感染症屋の気になる菌辞典
