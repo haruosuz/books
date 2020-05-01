@@ -678,7 +678,7 @@ data types (modes): numeric 実数, complex 複素数, logical 論理値, charac
 	levels(expression)
 	summary(expression)
 
-<img src="http://www.rcsb.org/pdb/images/1CF3_bio_r_500.jpg" alt="http://www.rcsb.org/pdb/explore/explore.do?structureId=1CF3" width=50%>
+<img src="http://www.rcsb.org/pdb/images/1CF3_bio_r_500.jpg" alt="http://www.rcsb.org/pdb/explore/explore.do?structureId=1CF3" width=25%>
 
 [RCSB PDB - 1CF3: GLUCOSE OXIDASE FROM APERGILLUS NIGER Structure Summary Page](http://www.rcsb.org/pdb/explore.do?structureId=1cf3)
 
@@ -710,7 +710,7 @@ data types (modes): numeric 実数, complex 複素数, logical 論理値, charac
 	# display content of protein object
 	protein
 
-<img src="http://www.frontiersin.org/files/Articles/60933/fgene-04-00201-HTML/image_m/fgene-04-00201-g001.jpg" alt="http://journal.frontiersin.org/article/10.3389/fgene.2013.00201/full" width=50%>
+<img src="http://www.frontiersin.org/files/Articles/60933/fgene-04-00201-HTML/image_m/fgene-04-00201-g001.jpg" alt="http://journal.frontiersin.org/article/10.3389/fgene.2013.00201/full" width=25%>
 
 #### Data frames
 [データフレーム](http://stat.biopapyrus.net/vector/dataframe.html)は、異なるデータ型の列を含められる。
