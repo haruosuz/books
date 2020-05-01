@@ -829,8 +829,9 @@ Rプログラム
 `t()`関数で行列を転置
 
 
-![http://articles.concreteinteractive.com/machine-learning-a-new-tool-for-humanity/](http://articles.concreteinteractive.com/wp-content/uploads/2015/03/irises.png)
-<img src="http://sebastianraschka.com/images/blog/2014/linear-discriminant-analysis/iris_petal_sepal.png" alt="http://sebastianraschka.com/Articles/2014_python_lda.html" width=50%>
+<img src="http://articles.concreteinteractive.com/wp-content/uploads/2015/03/irises.png" alt="http://articles.concreteinteractive.com/machine-learning-a-new-tool-for-humanity/" width=25%>
+
+<img src="http://sebastianraschka.com/images/blog/2014/linear-discriminant-analysis/iris_petal_sepal.png" alt="http://sebastianraschka.com/Articles/2014_python_lda.html" width=25%>
 
 [`iris`](http://d.hatena.ne.jp/tsutatsutatsuta/20121206/1354737461)は、アヤメ属の3品種(setosa, versicolor, virginica)毎に花50個体の がく片(Sepal)・花弁(Petal)の長さ(Length)・幅(Width)を計測したデータ
 
