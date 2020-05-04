@@ -107,27 +107,26 @@ Sequence analysis is a broad field, covering any kinds of analyses of textual se
 #### Genome sequences
 [ゲノム](https://ja.wikipedia.org/wiki/ゲノム)配列  
 
+<img src="https://www.ddbj.nig.ac.jp/images/center/insdc_shoukai.gif" alt="https://www.ddbj.nig.ac.jp/insdc.html" width=25%>
+
 [INSDC; International Nucleotide Sequence Database Collaboration](https://www.ddbj.nig.ac.jp/insdc-e.html)
 [塩基配列データベース構築の国際協調](https://www.ddbj.nig.ac.jp/insdc.html)
 
-<img src="https://www.ddbj.nig.ac.jp/images/center/insdc_shoukai.gif" alt="https://www.ddbj.nig.ac.jp/insdc.html" width=25%>
+恐竜のDNA? "Putative dinosaur genomic DNA, partial sequence" (http://www.ncbi.nlm.nih.gov/nuccore/U41319)  
 
-[ゲノム配列DBの使い方 統合TV(togotv)｜生命科学系DB・ツール使い倒し系チャンネル](http://togotv.dbcls.jp/ajacs2015018.html)
+二次データベース
+Ensembl (http://www.ensembl.org)
 
-恐竜のDNA? [Putative dinosaur genomic DNA, partial sequence](http://www.ncbi.nlm.nih.gov/nuccore/U41319.1)  
-
-二次データベース: [Ensembl](http://www.ensembl.org)
+- 2017-07-01 [自宅でできるゲノム研究:DDBJ/GenBank/ENA @ All-in-one 合同講習会 2017](https://doi.org/10.7875/togotv.2017.055)
 
 #### Protein sequences
 タンパク質配列  
 
-[Swiss-Prot - Wikipedia](https://ja.wikipedia.org/wiki/Swiss-Prot)  
-
-[UniProt](http://www.uniprot.org)
-
 <img src="http://www.uniprot.org/images/overview.png" alt="http://www.uniprot.org/help/about" width=50%>
 
-[InterPro](http://www.ebi.ac.uk/interpro)  
+UniProt (http://www.uniprot.org)
+
+InterPro (http://www.ebi.ac.uk/interpro)  
 
 #### Transcriptomic data
 [トランスクリプトーム](https://ja.wikipedia.org/wiki/トランスクリプトーム)データ  
