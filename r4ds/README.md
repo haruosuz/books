@@ -78,7 +78,7 @@ ggplot(data = mpg) +
 <img src="https://d33wubrfki0l68.cloudfront.net/8343557caa1271090c9f8edc217c87f9aca285fc/1afc5/visualize_files/figure-html/unnamed-chunk-8-1.png" width=50%>
 
 ----------
-# [4 Workflow: basics](https://r4ds.had.co.nz/workflow-basics.html#coding-basics)
+# [4 Workflow: basics](https://r4ds.had.co.nz/workflow-basics.html)
 # 2章　ワークフロー：基本
 ## 4.1 Coding basics
 
@@ -129,7 +129,8 @@ flights
 
 
 ----------
-# []()
+# [12 Tidy data](https://r4ds.had.co.nz/tidy-data.html)
+# 9章　tidyrによるデータ整理
 
 
 
