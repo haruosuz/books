@@ -13,30 +13,6 @@ https://www.yodosha.co.jp/yodobook/book/9784758120951/
 Rをはじめよう生命科学のためのRStudio入門 - 羊土社
 
 ----------
-
-Electric version at Oxford Scholarship Online.
-http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780198787839.001.0001/acprof-9780198787839
-```
-Contents
-
-Title Pages
-Preface
-
-1 Getting and Getting Acquainted with R
-2 Getting Your Data into R
-3 Data Management, Manipulation, and Exploration with dplyr
-4 Visualizing Your Data
-5 Introducing Statistics in R
-6 Advancing Your Statistics in R
-7 Getting Started with Generalized Linear Models
-8 Pimping Your Plots: Scales and Themes in ggplot2
-9 Closing Remarks: Final Comments and Encouragement
-
-General Appendices
-Index
-```
-
-----------
 ## 1 Getting and Getting Acquainted with R
 第1章 Rと仲よくなろう
 
