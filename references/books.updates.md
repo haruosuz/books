@@ -29,6 +29,7 @@ http://blog.hypoxia.jp/tag/drbonodojo
 「生命科学者のためのDr.Bonoデータ解析実践道場」が出ました
 
 ### 2019-06-15
+![](https://www.unp.or.jp/wp-content/uploads/2019/05/950.jpg)
 
 http://www.unp.or.jp/ISBN/ISBN978-4-8158-0950-8.html
 生命科学の実験デザイン〔第4版〕 « 名古屋大学出版会
@@ -74,9 +75,7 @@ https://twitter.com/woodcutter0825/status/1110135301421162496
 7:04 AM - 25 Mar 2019
 
 ### 2019-03-07
-![](http://www.hakuyo-sha.co.jp/wp/wp-content/uploads/2019/02/9784826902090-e1551253441773.gif)
-
-<img src="http://www.hakuyo-sha.co.jp/wp/wp-content/uploads/2019/02/9784826902090-e1551253441773.gif" alt="" width=50%>
+<img src="https://images-fe.ssl-images-amazon.com/images/I/41lESR8ncbL.jpg" alt="https://honz.jp/articles/-/45180" width=50%>
 
 http://www.hakuyo-sha.co.jp/science/rigor-mortis/
 生命科学クライシス｜白揚社 -Hakuyosha-
