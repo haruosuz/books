@@ -1,17 +1,17 @@
-Last Update: 2020-07
-
-----------
-# R books
+# books.statistics
 
 ## Table of Contents
+- [2018-11-05](#2018-11-05) 新版 統計学のセンス
 - [2018-10-11](#2018-10-11) 自然科学研究のためのR入門 (Wonderful R 4)
 - [2018-07-25](#2018-07-25) Rによる統計的学習入門
 - [2018-06-29](#2018-06-29) RユーザのためのRStudio［実践］入門
 - [2018-05-09](#2018-05-09) 再現可能性のすゝめ (Wonderful R 3)
-- 2017-01 [Statistics Done Wrong](#statisticsdonewrong) ダメな統計学
+- [2017-01-27](#2017-01-27) ダメな統計学 | Statistics Done Wrong
 - [2016-09-08](#2016-09-08) Rで楽しむ統計 (Wonderful R 1)
 - [2016-02-10](#2016-02-10) R言語徹底解説
+- [2015-03-25](#2015-03-25) RStudioではじめるRプログラミング入門 | Hands-On Programming with R
 
+----------
 
 ----------
 ## updates
@@ -27,22 +27,21 @@ http://kosugitti.net/archives/5958
 犬4匹本出版にあたって – Kosugitti's BLOG
 
 ----------
-published by O’Reilly in July 2014.
+### 2018-11-05
+<img src="http://www.asakura.co.jp/goods_img/115231.jpg" alt="" width=50%>
 
-![](https://rstudio-education.github.io/hopr/cover.png)
+http://www.asakura.co.jp/books/isbn/978-4-254-12882-6/
+朝倉書店｜新版 統計学のセンス ―デザインする視点・データを見る目―
 
-https://rstudio-education.github.io/hopr/index.html
-Hands-On Programming with R
+https://tjo.hatenablog.com/entry/2018/12/12/190000
+『新版 統計学のセンス』は統計学を「使う」人なら必携の書 - 六本木で働くデータサイエンティストのブログ
 
-https://twitter.com/StatGarrett/status/1052642829745496064
-Garrett Grolemund on Twitter: "Hands-On Programming with R is now available for free online, https://t.co/GNEGOVeM8h! Please help me spread the word. Thank you O'Reilly for the CC! #rstats #bookdown @rstudio @dataandme… https://t.co/NM9KsVXNeE"
-3:29 PM - 17 Oct 2018
-
-https://twitter.com/niszet0/status/1053527927126519808
-Rガチ初心者はオライリーさんの「RStudioではじめるRプログラミング入門」が一番簡単ですが、これの原著がwebで公開されたので、英語に抵抗がなければこれを見ると良いのです…
+https://twitter.com/h_okumura/status/1067353061310455808
+Haruhiko Okumura on Twitter: "最近買った本。こういう誤解が多いけれど，Wilcoxon順位和検定は等分散の場合のt検定みたいなもので，図(b)(c)に適用するものではないと思う… "
 
 ----------
 ## 2018-10-11
+![](https://www.kyoritsu-pub.co.jp/app/img/item/9784320112445.jpg)
 
 https://www.kyoritsu-pub.co.jp/bookdetail/9784320112445
 自然科学研究のためのR入門 ―再現可能なレポート執筆実践― / 江口 哲史　著
@@ -55,8 +54,6 @@ http://mikuhatsune.hatenadiary.com/entry/20181128/1543404937
 
 ----------
 ## 2018-07-25
-Rによる統計的学習入門
-
 <img src="http://www.asakura.co.jp/goods_img/113751.jpg" width=25%>
 
 http://www.asakura.co.jp/books/isbn/978-4-254-12224-4/
@@ -163,7 +160,7 @@ https://ksmzn.hatenablog.com/entry/Wonderful-R-03
 『再現可能性のすゝめ ―RStudioによるデータ解析とレポート作成― 』を読みました
 
 ----------
-## 2017-01
+## 2017-01-27
 ## statisticsdonewrong
 
 https://www.statisticsdonewrong.com/
@@ -269,6 +266,35 @@ http://wakuteka.hatenablog.jp/entry/2016/06/07/120000
 https://qiita.com/nakamichi/items/3d52e292789bfcfc9dc8
 「R言語徹底解説」入門 - Qiita
 
+
 ----------
+## 2015-03-25
+RStudioではじめるRプログラミング入門
+
+![](https://www.oreilly.co.jp/books/images/picture978-4-87311-715-7.gif)
+
+https://www.oreilly.co.jp/books/9784873117157/
+
+3:06 PM · Oct 20, 2018
+https://twitter.com/niszet0/status/1053527927126519808
+Rガチ初心者はオライリーさんの「RStudioではじめるRプログラミング入門」が一番簡単ですが、これの原著がwebで公開されたので、英語に抵抗がなければこれを見ると良いのです…
+
+![](https://rstudio-education.github.io/hopr/cover.png)
+
+4:29 AM · Oct 18, 2018
+https://twitter.com/StatGarrett/status/1052642829745496064
+Garrett Grolemund on Twitter: "Hands-On Programming with R is now available for free online, https://t.co/GNEGOVeM8h! Please help me spread the word. Thank you O'Reilly for the CC! #rstats #bookdown @rstudio @dataandme… https://t.co/NM9KsVXNeE"
+
+https://rstudio-education.github.io/hopr/
+Hands-On Programming with R
+
+published by O’Reilly in July 2014.
+
+
+----------
+
+
+----------
+
 
 
