@@ -16,11 +16,11 @@
 ----------
 ## updates
 
-2019年06月09日に更新
-https://qiita.com/A_KI/items/10887763b75a90404ef8
-Rのデータサイエンス書籍相関図(R初学者用)をつくってみた。 - Qiita
+2020/3/22
+https://ja.whotwi.com/tashirokouji/tweets/popular?page=5
+「Rのデータサイエンス書籍相関図(R初学者用)をつくってみた。(2018年時点)」
 
-![](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.amazonaws.com%2F0%2F207725%2Fade365a3-3682-9a87-d1ac-10ca81d80775.png?ixlib=rb-1.2.2&auto=format&gif-q=60&q=75&w=1400&fit=max&s=ebc7b2387201f9ff3c542c522eae5772)
+![](https://pbs.twimg.com/media/ETr9YegU4AAQxLo.jpg:small)
 
 2017年7月22日
 http://kosugitti.net/archives/5958
@@ -28,7 +28,7 @@ http://kosugitti.net/archives/5958
 
 ----------
 ### 2018-11-05
-<img src="http://www.asakura.co.jp/goods_img/115231.jpg" alt="" width=50%>
+<img src="http://www.asakura.co.jp/goods_img/115231.jpg" alt="" width=20%>
 
 http://www.asakura.co.jp/books/isbn/978-4-254-12882-6/
 朝倉書店｜新版 統計学のセンス ―デザインする視点・データを見る目―
@@ -54,7 +54,7 @@ http://mikuhatsune.hatenadiary.com/entry/20181128/1543404937
 
 ----------
 ## 2018-07-25
-<img src="http://www.asakura.co.jp/goods_img/113751.jpg" width=25%>
+<img src="http://www.asakura.co.jp/goods_img/113751.jpg" width=15%>
 
 http://www.asakura.co.jp/books/isbn/978-4-254-12224-4/
 朝倉書店｜Rによる統計的学習入門
