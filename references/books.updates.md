@@ -66,6 +66,8 @@ https://twitter.com/yutakashino/status/1113949347270615040
 Yuta Kashino on Twitter: "心理学の7つの大罪 | クリス・チェインバーズ https://t.co/3KWWdAFr8Q repligate/replication crisis https://t.co/hax06vEIxU と呼ばれる心理学の有名な実験が再現不能であることに関する状況の整理（図の通り）と原因を追及した本の邦訳．HARK, p値ハッキング，発表バイアスなど相当根が深いです…… https://t.co/IrX28pdTZf"
 7:39 PM - 4 Apr 2019
 
+![](https://pbs.twimg.com/media/D3WLBxwXkAI2fTS?format=jpg&name=small)
+
 https://twitter.com/misuzu_shobo/status/1112583523209109505/photo/1
 みすず書房 on Twitter: "【新刊】『心理学と7つの大罪 真の科学であるために私たちがすべきこと』(クリス・チェインバーズ、大塚紳一郎訳)本日配本です。実験データの私物化、不正行為への脆さ等、著者自らの研究者生活を通じて見えてきた、心理学の研究文化に根づく「7つの大罪」を暴き出す。 https://t.co/6dyPWgU7dF… https://t.co/JIUoUrwRzq"
 1:12 AM - 1 Apr 2019
@@ -75,7 +77,7 @@ https://twitter.com/woodcutter0825/status/1110135301421162496
 7:04 AM - 25 Mar 2019
 
 ### 2019-03-07
-<img src="https://images-fe.ssl-images-amazon.com/images/I/41lESR8ncbL.jpg" alt="https://honz.jp/articles/-/45180" width=25%>
+<img src="https://images-fe.ssl-images-amazon.com/images/I/41lESR8ncbL.jpg" alt="https://honz.jp/articles/-/45180" width=15%>
 
 http://www.hakuyo-sha.co.jp/science/rigor-mortis/
 生命科学クライシス｜白揚社 -Hakuyosha-
