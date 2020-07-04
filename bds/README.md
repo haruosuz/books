@@ -119,16 +119,17 @@ Reproducibility also relies on your work being robust—if a workflow run on a d
 - [Supplementary Material on GitHub](https://github.com/vsbuffalo/bds-files/tree/master/chapter-01-ideology)
 
 ## Why Bioinformatics? Biology’s Growing Data
-Figure 1-1. DNA配列決定コストの減少 [DNA Sequencing Costs](https://www.genome.gov/sequencingcostsdata/)  
-![](https://www.genome.gov/images/content/costm.jpg)
-![](https://www.genome.gov/images/content/costg.jpg)
+Figure 1-1. DNA配列決定コストの減少 [DNA Sequencing Costs](https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Costs-Data)  
+![](https://www.genome.gov/sites/default/files/inline-images/Sequencing_Cost_per_Megabase_August2019.jpg)
+![](https://www.genome.gov/sites/default/files/inline-images/Sequencing_Cost_per_Genome_August2019_0.jpg)
 
-Figure 1-2. [Sequence Read Archive](http://www.ncbi.nlm.nih.gov/Traces/sra/)の指数的成長  
-![](http://www.ncbi.nlm.nih.gov/Traces/sra/i/g.png)
+Figure 1-2. [Sequence Read Archive](https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi)の指数的成長  
+![](https://trace.ncbi.nlm.nih.gov/Traces/sra/i/g.png)
 
 [ショードリード配列マッピング・ツール](http://www.ebi.ac.uk/~nf/hts_mappers/)
+Not Found
 
-- 2015-05-18 [次世代シークエンサーにより得られたデータの解析 : ライフサイエンス 領域融合レビュー](http://leading.lifesciencedb.jp/4-e008/)
+- 2015-05-18 [次世代シークエンサーにより得られたデータの解析 : ライフサイエンス 領域融合レビュー](http://leading.lifesciencedb.jp/4-e008)
 
 ## Learning Data Skills to Learn Bioinformatics
 ## New Challenges for Reproducible and Robust Research
@@ -1625,6 +1626,7 @@ Rに読み込む前に、コマンドラインからファイルを見る:
 
 
 ### Exploring Data Visually with ggplot2 I: Scatterplots and Densities
+
 - [Rのグラフィック作成パッケージ“ggplot2”について｜Colorless Green Ideas](http://id.fnshr.info/2011/10/22/ggplot2/)
 - [ggplot2 | R のグラフをより美しく](http://stat.biopapyrus.net/ggplot/)
 - [ggplotの使い方 | Memo on the Web](http://motw.mods.jp/R/ggplot_tutorial.html)
@@ -1718,6 +1720,7 @@ Rの[`%in%`](https://stat.ethz.ch/R-manual/R-devel/library/base/html/match.html)
 
 [RepeatMasker](http://cell-innovation.nig.ac.jp/wiki/tiki-index.php?page=RepeatMasker)で発見されたヒトX染色体上のリピート領域のデータ（*chrX_rmsk.txt*）を読み込む:  
 
+    setwd("~/bds-files/chapter-08-r")
 
 列`repClass`は因子（factor）であることを確認:  
 
@@ -2058,6 +2061,72 @@ Rオブジェクトを保存・復元する関数は`save()`と`load()`
 
 - [Safari Books Online](https://www.safaribooksonline.com/library/view/bioinformatics-data-skills/9781449367480/ch09.html#chapter-09)
 - [Supplementary Material on GitHub](https://github.com/vsbuffalo/bds-files/tree/master/chapter-09-working-with-range-data)
+
+## A Crash Course in Genomic Ranges and Coordinate Systems
+
+## An Interactive Introduction to Range Data with GenomicRanges
+
+### Installing and Working with Bioconductor Packages
+
+```
+# https://bioconductor.org/packages/release/bioc/html/GenomicRanges.html
+
+if (!requireNamespace("BiocManager", quietly = TRUE))
+  install.packages("BiocManager")
+
+BiocManager::install("GenomicRanges")
+```
+
+### Storing Generic Ranges with IRanges
+
+```
+library(IRanges) # you might see some package startup messages when you run this
+
+rng <- IRanges(start=4, end=13)
+rng
+
+IRanges(start=4, width=3)
+IRanges(end=5, width=5)
+
+x <- IRanges(start=c(4, 7, 2, 20), end=c(13, 7, 5, 23))
+x
+
+names(x) <- letters[1:4]
+x
+
+class(x)
+```
+
+
+An Interactive Introduction to Range Data with GenomicRanges
+
+
+
+### Run Length Encoding and Views
+#### Run-length encoding and coverage()
+
+```
+x <- as.integer(c(4, 4, 4, 3, 3, 2, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 4, 4, 4, 4, 4, 4, 4))
+xrle <- Rle(x)
+xrle
+
+as.vector(xrle)
+
+xrle + 4L
+xrle/2
+xrle > 3
+xrle[xrle > 3]
+
+
+
+```
+
+
+
+
+## Working with Ranges Data on the Command Line with BEDTools
+
+
 
 ----------
 
