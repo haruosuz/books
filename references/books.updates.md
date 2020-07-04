@@ -75,7 +75,7 @@ https://twitter.com/woodcutter0825/status/1110135301421162496
 7:04 AM - 25 Mar 2019
 
 ### 2019-03-07
-<img src="https://images-fe.ssl-images-amazon.com/images/I/41lESR8ncbL.jpg" alt="https://honz.jp/articles/-/45180" width=50%>
+<img src="https://images-fe.ssl-images-amazon.com/images/I/41lESR8ncbL.jpg" alt="https://honz.jp/articles/-/45180" width=25%>
 
 http://www.hakuyo-sha.co.jp/science/rigor-mortis/
 生命科学クライシス｜白揚社 -Hakuyosha-
