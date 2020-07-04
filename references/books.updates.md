@@ -1,4 +1,4 @@
-# memo
+# books.updates
 
 ## Table of Contents
 - [2019-06-15](#2019-06-15) 生命科学の実験デザイン〔第4版〕
@@ -50,6 +50,7 @@ https://twitter.com/leeswijzer/status/1141883010188374017
 続）そもそも，「experimental design」を「実験計画法」ではなく「実験デザイン」と訳したり，「randomize」を「無作為化」ではなく「ランダム化」と訳すのは最近の傾向なのだろうか．
 
 ### 2019-04-01
+![](https://www.msz.co.jp/_cover/front/08788.jpg)
 
 https://www.msz.co.jp/book/detail/08788.html
 心理学の7つの大罪：みすず書房
@@ -73,6 +74,9 @@ https://twitter.com/woodcutter0825/status/1110135301421162496
 7:04 AM - 25 Mar 2019
 
 ### 2019-03-07
+![](http://www.hakuyo-sha.co.jp/wp/wp-content/uploads/2019/02/9784826902090-e1551253441773.gif)
+
+<img src="http://www.hakuyo-sha.co.jp/wp/wp-content/uploads/2019/02/9784826902090-e1551253441773.gif" alt="" width=50%>
 
 http://www.hakuyo-sha.co.jp/science/rigor-mortis/
 生命科学クライシス｜白揚社 -Hakuyosha-
