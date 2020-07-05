@@ -31,6 +31,8 @@ http://kosugitti.net/archives/5958
 ## minaka
 三中信宏／著
 
+http://cse.naro.affrc.go.jp/minaka/R/R-top.html
+租界〈Ｒ〉の門前にて —— 統計言語「Ｒ」との極私的格闘記録
 
 2018/05/15
 https://note.com/leeswijzer/n/ne827077ad556
@@ -39,6 +41,7 @@ https://note.com/leeswijzer/n/ne827077ad556
 http://leeswijzer.org/files/books.html
 公刊書籍一覧（出版年順）
 Last Modified: 21 April 2020 by MINAKA Nobuhiro
+
 
 ### 2018-06-01
 <img src="https://gihyo.jp/assets/images/cover/2018/thumb/TH320_9784774197531.jpg" alt="" width=15%>
@@ -52,8 +55,6 @@ http://d.hatena.ne.jp/shorebird/20180610
 ### 2015-05-26
 <img src="https://www.yodosha.co.jp/book_img_full/9784758120586.jpg" alt="" width=15%>
 
-http://cse.naro.affrc.go.jp/minaka/R/R-top.html
-租界〈Ｒ〉の門前にて —— 統計言語「Ｒ」との極私的格闘記録
 『みなか先生といっしょに 統計学の王国を歩いてみよう：情報の海と推論の山を越える翼をアナタに！』
 - 目次
 https://leeswijzer.hatenadiary.com/entry/20150521/1432117720
