@@ -1,4 +1,3 @@
-Haruo Suzuki (haruo[at]g-language[dot]org)  
 Last Update: 2019-11
 
 ----------
@@ -174,7 +173,8 @@ p.79
 
     cd ~/Downloads/datadojo/
 
-UniProtKB [Swiss-Prot](https://ja.wikipedia.org/wiki/Swiss-Prot) タンパク質データベース
+[UniProt](https://en.wikipedia.org/wiki/UniProt)/[Swiss-Prot](https://ja.wikipedia.org/wiki/Swiss-Prot)
+タンパク質データベース
 
 
 https://github.com/haruosuz/introBI/blob/master/2019/CaseStudy.md#uniprot_sprot
@@ -217,6 +217,32 @@ DBはアミノ酸配列
     # Running BLASTP
     ln -s ~/Downloads/datadojo/DrBonoDojo/3-2/HIF1_CAEEL.fasta
 
+p.99
+
+**応用例１：予測遺伝子セットの機能アノテーション**
+
+p.103
+
+**応用例２：メタゲノムデータ解析**
+
+SRAからのデータ取得
+
+https://www.ncbi.nlm.nih.gov/pubmed/26951067
+DNA Res. 2016 Apr;23(2):125-33. doi: 10.1093/dnares/dsw002. Epub 2016 Mar 6.
+The gut microbiome of healthy Japanese and its microbial and functional uniqueness.
+Nishijima S1, Suda W2, Oshima K1, Kim SW3, Hirose Y4, Morita H5, Hattori M6.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4833420/
+All bacterial metagenomic sequences were deposited in DDBJ under accession number PRJDB3601.
+
+https://trace.ddbj.nig.ac.jp/DRASearch/run?acc=DRR042266
+
+
+
+
+p.106
+
+**応用例３：ローカルにBLASTウェブサーバーを立てる**
+
 p.110
 
 3.3 系統樹作成
@@ -224,6 +250,16 @@ p.110
 [多重配列アライメントと分子系統樹](https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan#multiple-alignment-and-phylogenetic-trees)
 
 配列取得
+
+p.111
+
+https://integbio.jp/dbcatalog/record/nbdc00101
+HomoloGene
+http://www.ncbi.nlm.nih.gov/homologene
+全ゲノム配列が決定された20種類の真核生物の間で自動的検出したホモログ遺伝子のセット、およびmRNAやタンパク質の配列データを提供しています。他の生物種のUniGene配列でホモログの可能性があるものも表示されます。
+
+https://doi.org/10.7875/togotv.2015.066
+2015-07-14 HomoloGeneを用いた相同な遺伝子の検索
 
     # Perform sequence similarity search against UniProt with blastp
     ln -s ~/Downloads/datadojo/DrBonoDojo/3-3/HIF1_CAEEL.fasta
