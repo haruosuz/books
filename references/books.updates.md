@@ -15,9 +15,7 @@
 - [2018-11-19](#2018-11-19) よくわかるバイオインフォマティクス入門/藤博幸
 - [2018-07-30](#2018-07-30) なぜ科学はストーリーを必要としているのか
 - [2018-06-14](#2018-06-14) 細胞内共生説の謎
-- [2016-09-23](#2016-09-23) 生命、エネルギー、進化
 - [2016-08-26](#2016-08-26) 生物学の哲学入門
-
 
 ----------
 ## bonohu
@@ -241,24 +239,6 @@ https://twitter.com/search?q=%22細胞内共生説の謎%22&f=live
 
 ----------
 ## 2016
-
-----------
-
-### 2016-09-23
-https://www.msz.co.jp/book/detail/08534.html
-生命、エネルギー、進化：みすず書房
-
-- https://www.flierinc.com/summary/1002
-- https://bookmeter.com/books/11159375
-- https://blog.goo.ne.jp/miltran_alex800/e/6af549e9eadba2fb148526dc755b1d28 2017年11月10日
-- http://epigraph.jugem.jp/?eid=329 2017.06.18
-
-- http://hiro.asks.jp/100984.html 2018-05-28
-んで、エピローグでは、2010年に日本のチームが原核生物と真核生物のどちらでもない生物を発見しちゃったりした話とか、
-- http://wedge.ismedia.jp/articles/-/9680 2017年5月26日
-- http://d.hatena.ne.jp/shorebird/20161231
-- http://dain.cocolog-nifty.com/myblog/2016/12/post-d64f.html 2016.12.30
-- http://honz.jp/articles/-/43409 2016年10月07日
 
 ----------
 
