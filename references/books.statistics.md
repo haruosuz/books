@@ -329,7 +329,7 @@ https://www.oreilly.co.jp/books/9784873117157/
 https://twitter.com/niszet0/status/1053527927126519808
 Rガチ初心者はオライリーさんの「RStudioではじめるRプログラミング入門」が一番簡単ですが、これの原著がwebで公開されたので、英語に抵抗がなければこれを見ると良いのです…
 
-![](https://rstudio-education.github.io/hopr/cover.png)
+<img src="https://rstudio-education.github.io/hopr/cover.png" alt="" width=15%>
 
 4:29 AM · Oct 18, 2018
 https://twitter.com/StatGarrett/status/1052642829745496064
