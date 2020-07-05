@@ -43,7 +43,7 @@ http://leeswijzer.org/files/books.html
 Last Modified: 21 April 2020 by MINAKA Nobuhiro
 
 ### 2018-06-01
-<img src="https://gihyo.jp/assets/images/cover/2018/thumb/TH320_9784774197531.jpg" alt="" width=50%>
+<img src="https://gihyo.jp/assets/images/cover/2018/thumb/TH320_9784774197531.jpg" alt="" width=20%>
 
 http://leeswijzer.org/files/StatisticalMandala.html
 統計思考の世界：曼荼羅で読み解くデータ解析の基礎
@@ -52,7 +52,7 @@ http://d.hatena.ne.jp/shorebird/20180610
 書評　「統計思考の世界」 - shorebird　進化心理学中心の書評など
 
 ### 2015-05-26
-![](http://cse.naro.affrc.go.jp/minaka/R/ToukeiEmpire2.jpg)
+<img src="https://www.yodosha.co.jp/book_img_full/9784758120586.jpg" alt="" width=20%>
 
 『みなか先生といっしょに 統計学の王国を歩いてみよう：情報の海と推論の山を越える翼をアナタに！』
 目次｜版元ページ｜コンパニオンサイト
