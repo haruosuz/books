@@ -1,6 +1,9 @@
 # books.statistics
 
 ## Table of Contents
+- [minaka](#minaka) 三中信宏／著
+  - [2018-06-01](#2018-06-01) 統計思考の世界：曼荼羅で読み解くデータ解析の基礎
+  - [2015-05-26](#2015-05-26) みなか先生といっしょに 統計学の王国を歩いてみよう：情報の海と推論の山を越える翼をアナタに！
 - [2018-11-05](#2018-11-05) 新版 統計学のセンス
 - [2018-10-11](#2018-10-11) 自然科学研究のためのR入門 (Wonderful R 4)
 - [2018-07-25](#2018-07-25) Rによる統計的学習入門
@@ -10,8 +13,6 @@
 - [2016-09-08](#2016-09-08) Rで楽しむ統計 (Wonderful R 1)
 - [2016-02-10](#2016-02-10) R言語徹底解説
 - [2015-03-25](#2015-03-25) RStudioではじめるRプログラミング入門 | Hands-On Programming with R
-
-----------
 
 ----------
 ## updates
@@ -27,8 +28,44 @@ http://kosugitti.net/archives/5958
 犬4匹本出版にあたって – Kosugitti's BLOG
 
 ----------
+## minaka
+三中信宏／著
+
+http://cse.naro.affrc.go.jp/minaka/R/R-top.html
+租界〈Ｒ〉の門前にて —— 統計言語「Ｒ」との極私的格闘記録
+
+2018/05/15
+https://note.com/leeswijzer/n/ne827077ad556
+姉妹本3冊を書き終えて｜leeswijzer｜note
+
+http://leeswijzer.org/files/books.html
+公刊書籍一覧（出版年順）
+Last Modified: 21 April 2020 by MINAKA Nobuhiro
+
+### 2018-06-01
+<img src="https://gihyo.jp/assets/images/cover/2018/thumb/TH320_9784774197531.jpg" alt="" width=50%>
+
+http://leeswijzer.org/files/StatisticalMandala.html
+統計思考の世界：曼荼羅で読み解くデータ解析の基礎
+
+http://d.hatena.ne.jp/shorebird/20180610
+書評　「統計思考の世界」 - shorebird　進化心理学中心の書評など
+
+### 2015-05-26
+![](http://cse.naro.affrc.go.jp/minaka/R/ToukeiEmpire2.jpg)
+
+『みなか先生といっしょに 統計学の王国を歩いてみよう：情報の海と推論の山を越える翼をアナタに！』
+目次｜版元ページ｜コンパニオンサイト
+https://www.facebook.com/StatisticsTour
+https://www.yodosha.co.jp/yodobook/book/9784758120586/
+
+2014年2月
+https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/index.html
+統計の落とし穴と蜘蛛の糸 - Smart Lab Life - 羊土社
+
+----------
 ### 2018-11-05
-<img src="http://www.asakura.co.jp/goods_img/115231.jpg" alt="" width=20%>
+<img src="http://www.asakura.co.jp/goods_img/115231.jpg" alt="" width=10%>
 
 http://www.asakura.co.jp/books/isbn/978-4-254-12882-6/
 朝倉書店｜新版 統計学のセンス ―デザインする視点・データを見る目―
