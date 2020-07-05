@@ -91,8 +91,6 @@ Naoki Osada (CV) - 生命情報解析学テキスト
 
 ----------
 ### 2019-06-27
-![](https://www.chikumashobo.co.jp/photo/book/large/9784480837202.jpg)
-![](https://images-fe.ssl-images-amazon.com/images/I/41uXLD4kkyL.jpg)
 
 https://www.chikumashobo.co.jp/product/9784480837202/
 筑摩書房 クロード・シャノン　情報時代を発明した男 / ジミー・ソニ 著, ロブ・グッドマン 著, 小坂 恵理 著
