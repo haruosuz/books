@@ -1,11 +1,13 @@
 # books.updates
 
 ## Table of Contents
+- [2019-09-27](#2019-09-27) 生命科学者のためのDr.Bonoデータ解析実践道場
+- [2019-06-28](#2019-06-28) 進化で読み解く　バイオインフォマティクス入門 
 - [2019-06-15](#2019-06-15) 生命科学の実験デザイン〔第4版〕
 - [2019-04-01](#2019-04-01) 心理学の7つの大罪
 - [2019-03-07](#2019-03-07) 生命科学クライシス
 - [2018-12-04](#2018-12-04) 生命科学データベース・ウェブツール
-- [2018-11-05](#2018-11-05) 新版 統計学のセンス
+- [2018-11-19](#2018-11-19) よくわかるバイオインフォマティクス入門/藤博幸
 - [2018-07-30](#2018-07-30) なぜ科学はストーリーを必要としているのか
 - [2017-09-29](#2017-09-29) Dr.Bonoの生命科学データ解析
 - [2016-09-23](#2016-09-23) 生命、エネルギー、進化
@@ -16,7 +18,10 @@
 
 ## 2019
 
+----------
+
 ### 2019-09-27
+![](https://images-na.ssl-images-amazon.com/images/I/61fZikM0CcL._AC_UL160_.jpg)
 
 https://www.medsi.co.jp/products/detail/3708
 (MEDSi)株式会社 メディカル・サイエンス・インターナショナル / 生命科学者のためのDr.Bonoデータ解析実践道場
@@ -27,6 +32,39 @@ GitHub - bonohu/DrBonoDojo: 生命科学者のためのDr.Bonoデータ解析実
 2019/9/25
 http://blog.hypoxia.jp/tag/drbonodojo
 「生命科学者のためのDr.Bonoデータ解析実践道場」が出ました
+
+----------
+
+### 2019-06-28
+![](https://www.morikita.co.jp/data/cvr/026141cvr.jpg)
+
+https://www.morikita.co.jp/books/book/3349
+進化で読み解く　バイオインフォマティクス入門 | 森北出版株式会社
+
+
+https://twitter.com/Naoki_Osada/status/1147076348285861893
+長田直樹 on Twitter: "本と内容が違うところはありますが，授業で用いているもともとの資料はフリーで公開しています． https://t.co/8ch53ehQxK"
+6:34 PM · Jul 5, 2019
+
+https://twitter.com/Naoki_Osada/status/1147075982437675013
+長田直樹 on Twitter: "著書紹介：進化で読み解く バイオインフォマティクス入門（長田直樹著）https://t.co/kSu2E0lYcP" / Twitter
+6:33 PM · Jul 5, 2019
+
+https://twitter.com/HU_COOP_KK/status/1145549881836130304
+北海道大学生活協同組合 on Twitter: "【クラーク書籍】会館2Fですぅ 本日入荷の注目新刊はこちら
+「進化で読み解くバイオインフォマティクス入門」 北海道大学情報科学研究科　長田直樹先生　著 「生物学」「情報科学」の両面から学べる，バイオインフォマティクス入門書の決定版です。… https://t.co/QitvCqhMx6"
+12:29 AM - 1 Jul 2019
+
+https://twitter.com/rmaruy/status/1144817149531156481
+R. Maruyama on Twitter: "長田直樹先生の新刊『進化で読み解く バイオインフォマティクス入門』。DNA配列などから「情報」を読み取れるのはなぜか。その背後には「進化」の理論という大きなassumptionの体系があります。「こうすればこれが分かる」だけなく「なぜそれが分かるのか」まで理解したい人のための、本格的入門書。… https://t.co/iR34YwOl1T"
+11:57 PM - 28 Jun 2019
+
+https://twitter.com/Naoki_Osada/status/1144784996349071361
+長田直樹 on Twitter: "「進化で読み解く　バイオインフォマティクス入門」が出版されました． もともと自分の授業用に公開していた資料を大幅に改定・再構成したものです． 初学者用にコンパクトにまとめましたが，基礎となる生物学・数理科学の内容は押さえています． https://t.co/HOJGB1so1N"
+10:49 AM · Jun 29, 2019
+
+
+----------
 
 ### 2019-06-15
 ![](https://www.unp.or.jp/wp-content/uploads/2019/05/950.jpg)
@@ -136,16 +174,28 @@ https://www.keio-up.co.jp/np/detail_contents.do?goods_id=3860
 
 https://twitter.com/search?q=なぜ科学はストーリーを必要としているのか
 
-### 2018-11-05
+----------
 
-http://www.asakura.co.jp/books/isbn/978-4-254-12882-6/
-朝倉書店｜新版 統計学のセンス ―デザインする視点・データを見る目―
+### 2018-11-19
+<img src="https://www.kspub.co.jp/book/detail/images/9784065138212_obi_w.jpg" alt="" width=20%>
 
-https://tjo.hatenablog.com/entry/2018/12/12/190000
-『新版 統計学のセンス』は統計学を「使う」人なら必携の書 - 六本木で働くデータサイエンティストのブログ
+https://www.kspub.co.jp/book/detail/5138212.html
+よくわかるバイオインフォマティクス入門 | 書籍情報 | 株式会社 講談社サイエンティフィク
+正誤表
+https://www.kspub.co.jp/download/d63db53c249c72f11c544cbdc7b7c94bb9cf006e.pdf
 
-https://twitter.com/h_okumura/status/1067353061310455808
-Haruhiko Okumura on Twitter: "最近買った本。こういう誤解が多いけれど，Wilcoxon順位和検定は等分散の場合のt検定みたいなもので，図(b)(c)に適用するものではないと思う… "
+
+http://bookclub.kodansha.co.jp/product?item=0000275926
+『よくわかるバイオインフォマティクス入門』（藤　博幸，岩部　直之，川端　猛，浜田　道昭，門田　幸二，須山　幹太，光山　統泰，黒川　顕，森　宙史，東　光一，吉沢　明康，片山　俊明）｜講談社BOOK倶楽部
+
+
+p.83
+６章　ゲノム解析
+6.2.1　ゲノムの特徴
+A. ゲノムサイズと遺伝子数
+B. GC含量（GC content）
+C. GC skew
+
 
 ----------
 ## 2017
