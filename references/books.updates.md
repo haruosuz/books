@@ -3,22 +3,35 @@
 ## Table of Contents
 - [2019-12-12](#2019-12-12) 次世代シークエンサーDRY解析教本　改訂第2版
 - [2019-09-27](#2019-09-27) 生命科学者のためのDr.Bonoデータ解析実践道場
+- [2018-11-30](#2018-11-30) 生命科学データベース・ウェブツール
+- [2017-09-29](#2017-09-29) Dr.Bonoの生命科学データ解析
+- 
 - [2019-06-28](#2019-06-28) 進化で読み解く　バイオインフォマティクス入門 
 - [2019-06-15](#2019-06-15) 生命科学の実験デザイン〔第4版〕
 - [2019-04-01](#2019-04-01) 心理学の7つの大罪
 - [2019-03-07](#2019-03-07) 生命科学クライシス
-- [2018-12-04](#2018-12-04) 生命科学データベース・ウェブツール
 - [2018-11-19](#2018-11-19) よくわかるバイオインフォマティクス入門/藤博幸
 - [2018-07-30](#2018-07-30) なぜ科学はストーリーを必要としているのか
-- [2017-09-29](#2017-09-29) Dr.Bonoの生命科学データ解析
 - [2016-09-23](#2016-09-23) 生命、エネルギー、進化
 - [2016-08-26](#2016-08-26) 生物学の哲学入門
 - [1981-09-22](#1981-09-22) 理科系の作文技術
 
+
+
+
+
+
 ----------
+## bonohu
+http://bonohu.jp/blog/
 
-## 2019
+日 16 2月 2020.
+http://bonohu.jp/blog/books-for-biological-data-analaysis.html
+ぼうのブログ
+Books for Biological Data Analaysis
+生命科学データ解析の本ガイド
 
+-----
 ### 2019-12-12
 ![](https://gakken-mesh.jp/images/goods_img/14158098301.jpg)
 
@@ -27,20 +40,37 @@ https://gakken-mesh.jp/book/detail/9784780909838.html
 
 https://twitter.com/hashtag/NGS_DAT?f=live
 
-----------
-
+-----
 ### 2019-09-27
 ![](https://images-na.ssl-images-amazon.com/images/I/61fZikM0CcL._AC_UL160_.jpg)
 
-https://www.medsi.co.jp/products/detail/3708
-(MEDSi)株式会社 メディカル・サイエンス・インターナショナル / 生命科学者のためのDr.Bonoデータ解析実践道場
+生命科学者のためのDr.Bonoデータ解析実践道場
 
-https://github.com/bonohu/DrBonoDojo
-GitHub - bonohu/DrBonoDojo: 生命科学者のためのDr.Bonoデータ解析実践道場
+https://github.com/haruosuz/books/tree/master/DrBonoDojo
 
-2019/9/25
-http://blog.hypoxia.jp/tag/drbonodojo
-「生命科学者のためのDr.Bonoデータ解析実践道場」が出ました
+-----
+### 2018-11-30
+<img src="https://www.medsi.co.jp/html/upload/save_image/11210924_5bf4a5b6a2511.jpg" alt="" width=15%>
+
+生命科学データベース・ウェブツール  － 図解と動画で使い方がわかる！　研究がはかどる定番18選 －
+
+https://www.medsi.co.jp/books/products/detail.php?product_id=3665
+
+https://twitter.com/hashtag/togotv18
+
+https://github.com/haruosuz/ksbn/blob/master/2018/README.2018.4.md#2018-11-30
+
+-----
+### 2017-09-29
+![](https://www.medsi.co.jp/books/upload/save_image/09271003_59caf8cb2985a.jpg)
+
+Dr.Bonoの生命科学データ解析
+
+https://github.com/haruosuz/books/tree/master/drbonobon
+
+
+----------
+## 2019
 
 ----------
 
@@ -155,22 +185,6 @@ https://huyukiitoichi.hatenadiary.jp/entry/2019/03/19/080000
 
 ## 2018
 
-### 2018-12-04
-
-2018年11月末発行。ご予約受付中!
-https://www.medsi.co.jp/books/products/detail.php?product_id=3665
-生命科学データベース・ウェブツール/(MEDSi)株式会社 メディカル・サイエンス・インターナショナル
-
-https://twitter.com/hashtag/togotv18
-
-https://github.com/haruosuz/ksbn/blob/master/2018/README.2018.4.md#2018-11-30
-
-### 2018-07-30
-https://www.keio-up.co.jp/np/detail_contents.do?goods_id=3860
-慶應義塾大学出版会 | なぜ科学はストーリーを必要としているのか | ランディ・オルソン 坪子理美
-
-https://twitter.com/search?q=なぜ科学はストーリーを必要としているのか
-
 ----------
 
 ### 2018-11-19
@@ -193,12 +207,16 @@ A. ゲノムサイズと遺伝子数
 B. GC含量（GC content）
 C. GC skew
 
+----------
+
+### 2018-07-30
+https://www.keio-up.co.jp/np/detail_contents.do?goods_id=3860
+慶應義塾大学出版会 | なぜ科学はストーリーを必要としているのか | ランディ・オルソン 坪子理美
+
 
 ----------
 ## 2017
-### 2017-09-29
-https://www.medsi.co.jp/products/detail/3588
-Dr.Bonoの生命科学データ解析
+
 
 ----------
 
