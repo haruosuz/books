@@ -1,6 +1,7 @@
 # books.updates
 
 ## Table of Contents
+- [2019-12-12](#2019-12-12) 次世代シークエンサーDRY解析教本　改訂第2版
 - [2019-09-27](#2019-09-27) 生命科学者のためのDr.Bonoデータ解析実践道場
 - [2019-06-28](#2019-06-28) 進化で読み解く　バイオインフォマティクス入門 
 - [2019-06-15](#2019-06-15) 生命科学の実験デザイン〔第4版〕
@@ -17,6 +18,14 @@
 ----------
 
 ## 2019
+
+### 2019-12-12
+![](https://gakken-mesh.jp/images/goods_img/14158098301.jpg)
+
+https://gakken-mesh.jp/book/detail/9784780909838.html
+次世代シークエンサーDRY解析教本　改訂第2版 | 学研メディカル秀潤社
+
+https://twitter.com/hashtag/NGS_DAT?f=live
 
 ----------
 
@@ -41,28 +50,16 @@ http://blog.hypoxia.jp/tag/drbonodojo
 https://www.morikita.co.jp/books/book/3349
 進化で読み解く　バイオインフォマティクス入門 | 森北出版株式会社
 
+2019.07.05
+https://www.jsbi.org/news/papers_awards/20190705/
+Japanese Society for Bioinformatics - JSBi :: 著書紹介：進化で読み解く バイオインフォマティクス入門（長田直樹著）
 
+6:34 PM · Jul 5, 2019
 https://twitter.com/Naoki_Osada/status/1147076348285861893
 長田直樹 on Twitter: "本と内容が違うところはありますが，授業で用いているもともとの資料はフリーで公開しています． https://t.co/8ch53ehQxK"
-6:34 PM · Jul 5, 2019
 
-https://twitter.com/Naoki_Osada/status/1147075982437675013
-長田直樹 on Twitter: "著書紹介：進化で読み解く バイオインフォマティクス入門（長田直樹著）https://t.co/kSu2E0lYcP" / Twitter
-6:33 PM · Jul 5, 2019
-
-https://twitter.com/HU_COOP_KK/status/1145549881836130304
-北海道大学生活協同組合 on Twitter: "【クラーク書籍】会館2Fですぅ 本日入荷の注目新刊はこちら
-「進化で読み解くバイオインフォマティクス入門」 北海道大学情報科学研究科　長田直樹先生　著 「生物学」「情報科学」の両面から学べる，バイオインフォマティクス入門書の決定版です。… https://t.co/QitvCqhMx6"
-12:29 AM - 1 Jul 2019
-
-https://twitter.com/rmaruy/status/1144817149531156481
-R. Maruyama on Twitter: "長田直樹先生の新刊『進化で読み解く バイオインフォマティクス入門』。DNA配列などから「情報」を読み取れるのはなぜか。その背後には「進化」の理論という大きなassumptionの体系があります。「こうすればこれが分かる」だけなく「なぜそれが分かるのか」まで理解したい人のための、本格的入門書。… https://t.co/iR34YwOl1T"
-11:57 PM - 28 Jun 2019
-
-https://twitter.com/Naoki_Osada/status/1144784996349071361
-長田直樹 on Twitter: "「進化で読み解く　バイオインフォマティクス入門」が出版されました． もともと自分の授業用に公開していた資料を大幅に改定・再構成したものです． 初学者用にコンパクトにまとめましたが，基礎となる生物学・数理科学の内容は押さえています． https://t.co/HOJGB1so1N"
-10:49 AM · Jun 29, 2019
-
+https://sites.google.com/site/nosada17/Home/osada_text?authuser=0
+Naoki Osada (CV) - 生命情報解析学テキスト
 
 ----------
 
