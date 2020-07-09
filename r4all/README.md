@@ -1,12 +1,14 @@
-Last Update: 2020-06
+Last Update: 2020-07
 
 ----------
 # Getting Started with R
 
-![](https://www.oxfordscholarship.com/view/covers/9780198787839.jpg)
-
 http://r4all.org/books/gswr2/
 Getting Started with R, Second Edition | R4All
+
+![](https://www.oxfordscholarship.com/view/covers/9780198787839.jpg)
+
+<img src="https://www.yodosha.co.jp/book_img_full/9784758120951.jpg" alt="" width=15%>
 
 2019-03-12
 https://www.yodosha.co.jp/yodobook/book/9784758120951/
