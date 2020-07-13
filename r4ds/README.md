@@ -1,5 +1,4 @@
-Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2020-03
+Last Update: 2020-07-13
 
 ----------
 # [R for Data Science](http://r4ds.had.co.nz)
@@ -111,6 +110,8 @@ flights
 # [7 Exploratory Data Analysis](https://r4ds.had.co.nz/exploratory-data-analysis.html)
 # 5章　探索的データ分析
 
+<img src="https://d33wubrfki0l68.cloudfront.net/153b9af53b33918353fda9b691ded68cd7f62f51/5b616/images/eda-boxplot.png" width=50%>
+
 ----------
 # [8 Workflow: projects](https://r4ds.had.co.nz/workflow-projects.html)
 # 6章　ワークフロー：プロジェクト
@@ -127,19 +128,21 @@ flights
 # [11 Data import](https://r4ds.had.co.nz/data-import.html)
 # 8章　readrによるデータインポート
 
-
 ----------
 # [12 Tidy data](https://r4ds.had.co.nz/tidy-data.html)
 # 9章　tidyrによるデータ整理
 
-
-
 ----------
 # 
 
+----------
+# [25 Many models](https://r4ds.had.co.nz/many-models.html)
 
+# 20章　purrrとbroomによる多数のモデル
+    20.6　broomで整理データを作る
 
-
+----------
+# 
 
 
 ----------
@@ -173,15 +176,13 @@ https://www.oreilly.co.jp/books/9784873118147/#toc
 
 ![https://www.oreilly.co.jp/books/9784873118147/](https://www.oreilly.co.jp/books/images/picture978-4-87311-814-7.gif)
 
+最終更新 2 か月前
+https://sugiura.gitbook.io/r-for-data-science-answers/
+この本はRではじめるデータサイエンスの演習問題の回答を記載したものです。したがって、章立ては日本語版に準じています。
+
 2019.12.28
 https://miscellaneous.tokyo/blog/r-for-data-science/
 Hadley Wickham, et al.：Ｒではじめるデータサイエンス | 書評と練習問題の解答例
-
-Nov 12, 2019
-https://github.com/wasabi1989/R_for_Data_Science_Answers
-Rで始めるデータサイエンスの練習問題の解答
-この本はRではじめるデータサイエンスの演習問題の回答を記載したものです。したがって、章立ては日本語版に準じています。Gitbook版はこちら。
-https://sugiura.gitbook.io/r-for-data-science-answers/
 
 http://knknkn.hatenablog.com/entry/2019/01/16/094300
 Rではじめるデータサイエンス 演習1章① 2,3節 - まずは蝋の翼から。
