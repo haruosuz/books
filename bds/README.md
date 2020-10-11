@@ -1345,6 +1345,10 @@ FASTQ/FASTAエントリ数をカウント:
 逆相補鎖に変換　(reverse complement):  
 
 
+
+Bioawk is also useful for creating a table of sequence lengths from a FASTA file. For example, to create a table of all chromosome lengths of the Mus musculus genome:
+
+
 オプション`-c hdr`
 
 
@@ -2300,6 +2304,19 @@ SAMファイルのアラインメント部分は11フィールド以上から成
 
 - [シェルスクリプトマナー - きつねたぬきだし](http://kitsunetanukidashi.hatenablog.com/entry/2014/07/12/231833)
 - [Linux - bashの*スクリプトにセットする推奨オプション](http://qiita.com/kiida/items/3beb1bf718cdc2f0798a)
+
+6:14 PM · Oct 9, 2020
+https://twitter.com/firefoxx66/status/1314494393475268609
+Dr Emma Hodcroft on Twitter: "I have used "set -euo pipefail" at the start of scripts, since that's what I was taught, but I will admit - I actually had no idea exactly what it did!" / Twitter
+
+8:24 AM · Oct 9, 2020
+https://twitter.com/b0rk/status/1314345978963648524
+bash error handling
+
+https://wizardzines.com/comics/bash-errors
+
+![](https://pbs.twimg.com/media/Ej1-syqWsAAc0wm?format=jpg&name=small)
+
 
 #### Running Bash scripts
 Bashスクリプトを実行する方法:  
