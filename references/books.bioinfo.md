@@ -1,16 +1,36 @@
 # books.bioinfo
 
 ## Table of Contents
+- [2020-09-19](#2020-09-19) バイオインフォマティクスデータスキル
+――オープンソースツールを使ったロバストで再現性のある研究
 - [bonohu](#bonohu) ぼうのブログ　生命科学データ解析の本ガイド
 - [2019-12-12](#2019-12-12) 次世代シークエンサーDRY解析教本　改訂第2版
 - [2019-09-27](#2019-09-27) 生命科学者のためのDr.Bonoデータ解析実践道場
 - [2018-11-30](#2018-11-30) 生命科学データベース・ウェブツール
 - [2017-09-29](#2017-09-29) Dr.Bonoの生命科学データ解析
-- 
 - [2019-06-28](#2019-06-28) 進化で読み解く　バイオインフォマティクス入門
 - [2018-11-19](#2018-11-19) よくわかるバイオインフォマティクス入門/藤博幸
-- 
 - [2015-08-31](#2015-08-31) バイオインフォマティクス入門/日本バイオインフォマティクス学会 編
+
+----------
+## 2020
+
+### 2020-09-19
+
+https://www.oreilly.co.jp/books/9784873118635/
+バイオインフォマティクスデータスキル
+――オープンソースツールを使ったロバストで再現性のある研究
+Vince Buffalo　著、片山 俊明、川島 秀一、鈴木 治夫、山本 泰智　監訳、酒匂 寛、山村 吉信　訳
+
+https://www.oreilly.co.jp/books/9784873118635/#toc
+目次
+
+![https://www.oreilly.co.jp/books/9784873118635/](https://www.oreilly.co.jp/books/images/picture978-4-87311-863-5.gif)
+
+https://www.oreilly.com/library/view/bioinformatics-data-skills/9781449367480/
+Bioinformatics Data Skills [Book]
+
+https://github.com/haruosuz/books/tree/master/bds
 
 ----------
 ## bonohu
@@ -95,7 +115,6 @@ https://www.kspub.co.jp/book/detail/5138212.html
 正誤表
 https://www.kspub.co.jp/download/d63db53c249c72f11c544cbdc7b7c94bb9cf006e.pdf
 
-
 http://bookclub.kodansha.co.jp/product?item=0000275926
 『よくわかるバイオインフォマティクス入門』（藤　博幸，岩部　直之，川端　猛，浜田　道昭，門田　幸二，須山　幹太，光山　統泰，黒川　顕，森　宙史，東　光一，吉沢　明康，片山　俊明）｜講談社BOOK倶楽部
 
@@ -120,7 +139,6 @@ https://www.keio-up.co.jp/np/detail_contents.do?goods_id=3064
 
 ----------
 
-https://github.com/haruosuz/ksbn/blob/master/2018/README.2018.4.md
 
 ----------
 
