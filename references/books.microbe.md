@@ -1,7 +1,7 @@
 # books.microbe
 
 ## Table of Contents
-- [featuring](#featuring)
+- [unclassified](#unclassified)
 - [updates](#updates)
   - [2019-03-22](#2019-03-22) これからの微生物学
 マイクロバイオータからCRISPRへ
@@ -19,6 +19,7 @@
   - [2017-08-18](#2017-08-18) 微生物の驚異 | 日経サイエンス
   - [2017-05-01](#2017-05-01) 世界は細菌にあふれ、人は細菌によって生かされる
   - [2017-03-21](#2017-03-21) もやしもんと感染症屋の気になる菌辞典
+  - [2017-01-24](#2017-01-24) 感染源　防御不能のパンデミックを追う
   - [2016-12-01](#2016-12-01) マイクロバイオームの世界―あなたの中と表面と周りにいる何兆もの微生物たち
   - [2016-11-12](#2016-11-12) 土と内臓　微生物がつくる世界
   - [2016-09-12](#2016-09-12) 微生物生態学　ゲノム解析からエコシステムまで Processes in Microbial Ecology
@@ -32,7 +33,7 @@
 - [twitter](#twitter)
 
 ----------
-## featuring
+## unclassified
 
 ----------
 ## updates
@@ -330,6 +331,9 @@ http://www.harashobo.co.jp/book/b369202.html
 2017年03月19日
 https://honz.jp/articles/-/43893
 パンデミックの複雑な見取り図『感染源 防御不能のパンデミックを追う』 - HONZ
+
+https://soniashah.com/pandemic-the-book/
+Pandemic – Sonia Shah
 
 ### 2016-12-01
 ![](https://www.kinokuniya.co.jp/images/goods/ar2/web/imgdata2/43140/4314011440.jpg)
