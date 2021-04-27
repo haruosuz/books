@@ -41,7 +41,6 @@
 ## updates
 
 ### 2020-09-19
-![](http://www.tsukiji-shokan.co.jp/mokuroku/hon-imgs/1607.jpg)
 
 http://www.tsukiji-shokan.co.jp/mokuroku/ISBN978-4-8067-1607-5.html
 人に話したくなる土壌微生物の世界 食と健康から洞窟、温泉、宇宙まで
