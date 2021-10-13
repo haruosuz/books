@@ -1,4 +1,4 @@
-Last Update: 2020-07-13
+Last Update: 2021-10-14
 
 ----------
 # [R for Data Science](http://r4ds.had.co.nz)
@@ -19,6 +19,8 @@ Last Update: 2020-07-13
 - [10 Tibbles](#10-tibbles)
 - [11 Data import](#11-data-import)
 - [12 Tidy data](#12-tidy-data)
+- [](#)
+- [21 Iteration](#21-iteration)
 - [](#)
 - [27 R Markdown](#27-r-markdown)
 - [References](#references)
@@ -137,6 +139,40 @@ flights
 # 
 
 ----------
+# 
+
+----------
+# [15 Factors](https://r4ds.had.co.nz/factors.html)
+# 12章　forcatsでファクタ
+
+----------
+# 
+
+----------
+# 
+
+----------
+# 
+
+
+----------
+# [20 Vectors](https://r4ds.had.co.nz/vectors.html)
+# 16章　ベクトル
+
+    16.7　強化ベクトル
+        16.7.1　ファクタ
+
+----------
+# [21 Iteration](https://r4ds.had.co.nz/iteration.html)
+# 17章　purrrでイテレーション
+    17.3　forループのバリエーション
+
+        17.3.3　出力長不明
+
+----------
+# 
+
+----------
 # [25 Many models](https://r4ds.had.co.nz/many-models.html)
 
 # 20章　purrrとbroomによる多数のモデル
@@ -144,7 +180,6 @@ flights
 
 ----------
 # 
-
 
 ----------
 # [27 R Markdown](https://r4ds.had.co.nz/r-markdown.html)
@@ -177,8 +212,8 @@ https://www.oreilly.co.jp/books/9784873118147/#toc
 
 ![https://www.oreilly.co.jp/books/9784873118147/](https://www.oreilly.co.jp/books/images/picture978-4-87311-814-7.gif)
 
-最終更新 2 か月前
-https://sugiura.gitbook.io/r-for-data-science-answers/
+最終更新 6 日前
+https://sugiaki1989.gitbook.io/r-for-data-science-answers/
 この本はRではじめるデータサイエンスの演習問題の回答を記載したものです。したがって、章立ては日本語版に準じています。
 
 2019.12.28
