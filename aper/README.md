@@ -1,4 +1,4 @@
-Last Update: 2021-03-31
+Last Update: 2021-12-11
 
 ----------
 
@@ -6,6 +6,7 @@ Last Update: 2021-03-31
 Second Edition — 2012
 
 - https://link.springer.com/book/10.1007%2F978-1-4614-1743-9
+  - https://link.springer.com/content/pdf/10.1007%2F978-1-4614-1743-9.pdf
 - http://ape-package.ird.fr/APER.html
   - http://ape-package.ird.fr/APER/APER2/APER2_errata.pdf
 
@@ -26,6 +27,10 @@ Second Edition — 2012
 
 ----------
 # References
+
+- https://cran.r-project.org/package=ape
+- http://ape-package.ird.fr/
+- https://github.com/emmanuelparadis/ape
 
 https://www.ncbi.nlm.nih.gov/pubmed/30016406
 Bioinformatics. 2019 Feb 1;35(3):526-528. doi: 10.1093/bioinformatics/bty633.
