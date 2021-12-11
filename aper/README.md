@@ -5,7 +5,7 @@ Last Update: 2021-12-11
 # Analysis of Phylogenetics and Evolution with R
 Second Edition — 2012
 
-- https://link.springer.com/book/10.1007%2F978-1-4614-1743-9
+- https://link.springer.com/book/10.1007/978-1-4614-1743-9
   - https://link.springer.com/content/pdf/10.1007%2F978-1-4614-1743-9.pdf
 - http://ape-package.ird.fr/APER.html
   - http://ape-package.ird.fr/APER/APER2/APER2_errata.pdf
