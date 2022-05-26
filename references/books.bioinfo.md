@@ -1,6 +1,8 @@
 # books.bioinfo
 
 ## Table of Contents
+- [2021-12-25](#2021-12-25) バイオインフォマティクス入門 第２版/日本バイオインフォマティクス学会 編
+- [2021-03-16](#2021-03-16) Dr.Bonoの生命科学データ解析 第2版
 - [2020-09-19](#2020-09-19) バイオインフォマティクスデータスキル
 ――オープンソースツールを使ったロバストで再現性のある研究
 - [bonohu](#bonohu) ぼうのブログ　生命科学データ解析の本ガイド
@@ -13,6 +15,27 @@
 - [2015-08-31](#2015-08-31) バイオインフォマティクス入門/日本バイオインフォマティクス学会 編
 - [2006-12-20](#2006-12-20) はじめてのバイオインフォマティクス/藤博幸・編
 - [2004-05-10](#2004-05-10) タンパク質機能解析のためのバイオインフォマティクス/藤博幸・著
+
+----------
+## 2021
+
+-----
+### 2021-12-25
+
+バイオインフォマティクス入門 第２版
+日本バイオインフォマティクス学会 編
+https://www.keio-up.co.jp/np/isbn/9784766427912/
+
+目次
+https://www.keio-up.co.jp/np/detail_contents.do?goods_id=6182
+
+-----
+### 2021-03-16
+
+Dr.Bonoの生命科学データ解析 第2版
+
+https://www.medsi.co.jp/products/detail/3787
+http://bonohu.jp/blog/category/drbonobon.html
 
 ----------
 ## 2020
@@ -81,7 +104,6 @@ Dr.Bonoの生命科学データ解析
 
 https://github.com/haruosuz/books/tree/master/drbonobon
 
-
 ----------
 ## 2019
 
@@ -130,12 +152,12 @@ C. GC skew
 ----------
 ### 2015-08-31
 
-https://www.keio-up.co.jp/np/isbn/9784766422511/
 バイオインフォマティクス入門
 日本バイオインフォマティクス学会 編
+https://www.keio-up.co.jp/np/isbn/9784766422511/
 
-https://www.keio-up.co.jp/np/detail_contents.do?goods_id=3064
 目次
+https://www.keio-up.co.jp/np/detail_contents.do?goods_id=3064
 
 ![](https://www.keio-up.co.jp/img/cover_l/22510.jpg)
 
