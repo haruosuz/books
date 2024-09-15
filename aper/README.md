@@ -6,7 +6,6 @@ Last Update: 2024-03-17
 Second Edition — 2012
 
 - https://link.springer.com/book/10.1007/978-1-4614-1743-9
-  - https://link.springer.com/content/pdf/10.1007%2F978-1-4614-1743-9.pdf
 - https://emmanuelparadis.github.io/APER.html
   - https://emmanuelparadis.github.io/APER/APER2/APER2_errata.pdf
 
